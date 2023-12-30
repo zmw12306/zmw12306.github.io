@@ -15,11 +15,11 @@ redirect_from:
 Publication
 ======
 * ParDiff: Practical Static Differential Analysis of Network Protocol Parsers (**To appear**)
-**Mingwei Zheng**, [Qingkai Shi](https://qingkaishi.github.io), Xuwei Liu, [Xiangzhe Xu](https://xz-x.github.io), [Le Yu](https://www.cs.purdue.edu/homes/yu759/), [Congyu Liu](https://congyu-liu.github.io), [Guannan Wei](https://continuation.passing.style), [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/)  
+**Mingwei Zheng**, Qingkai Shi, Xuwei Liu, Xiangzhe Xu, Le Yu, Congyu Liu, Guannan Wei, Xiangyu Zhang  
 The ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications (**OOPSLA 2024**)
 
 * [Lifting Network Protocol Implementation to Precise Format Specification with Security Applications](https://dl.acm.org/doi/abs/10.1145/3576915.3616614)
-[Qingkai Shi](https://qingkaishi.github.io), Junyang Shao, [Yapeng Ye](https://www.cs.purdue.edu/homes/ye203/), **Mingwei Zheng**, [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/)
+Qingkai Shi, Junyang Shao, Yapeng Ye, **Mingwei Zheng**, Xiangyu Zhang
 The ACM Conference on Computer and Communications Security (**CCS 2023**)
 
 * [Why Do Developers Remove Lambda Expressions in Java?](https://ieeexplore.ieee.org/document/9678600)
