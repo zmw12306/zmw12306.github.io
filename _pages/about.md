@@ -33,7 +33,6 @@ redirect_from:
 * Reviewer, IEEE Transactions on Wireless Communications (2023)
 * Reviewer, PeerJ Computer Science (2023)
 
-
 ## Teaching
-## CS180(2022 Spring)
-## CS307(2022 Fall)
+* Teaching Assistant, CS 18000: Problem Solving And Object-Oriented Programming (2022 Spring)
+* Teaching Assistant, CS 30700: Software Engineering (2022 Fall)
