@@ -12,7 +12,7 @@ redirect_from:
 
 * My research interests are program analysis, software testing and formal methods.
 
-## Publications
+## Publication
 
 - **ParDiff: Practical Static Differential Analysis of Network Protocol Parsers**  
   (**To appear**)  
