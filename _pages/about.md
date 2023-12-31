@@ -14,18 +14,18 @@ redirect_from:
 
 ## Publications
 
-* ParDiff: Practical Static Differential Analysis of Network Protocol Parsers
-**Mingwei Zheng**, Qingkai Shi, Xuwei Liu, Xiangzhe Xu, Le Yu, Congyu Liu, Guannan Wei, Xiangyu Zhang  
-*To appear in The ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications (OOPSLA 2024)*
+- **ParDiff: Practical Static Differential Analysis of Network Protocol Parsers**  
+  (**To appear**)  
+  **Mingwei Zheng**, Qingkai Shi, Xuwei Liu, Xiangzhe Xu, Le Yu, Congyu Liu, Guannan Wei, Xiangyu Zhang  
+  *The ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications (OOPSLA 2024)*
 
-* [Lifting Network Protocol Implementation to Precise Format Specification with Security Applications](https://dl.acm.org/doi/abs/10.1145/3576915.3616614)
-Qingkai Shi, Junyang Shao, Yapeng Ye, **Mingwei Zheng**, Xiangyu Zhang  
-*Presented at The ACM Conference on Computer and Communications Security (CCS 2023)*
+- [**Lifting Network Protocol Implementation to Precise Format Specification with Security Applications**](https://dl.acm.org/doi/abs/10.1145/3576915.3616614)  
+  Qingkai Shi, Junyang Shao, Yapeng Ye, **Mingwei Zheng**, Xiangyu Zhang  
+  *The ACM Conference on Computer and Communications Security (CCS 2023)*
 
-* [Why Do Developers Remove Lambda Expressions in Java?](https://ieeexplore.ieee.org/document/9678600)
-**Mingwei Zheng**, Jun Yang, Ming Wen*, Hengcheng Zhu, Yepang Liu, and Hai Jin  
-*Presented at The IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)*
-
+- [**Why Do Developers Remove Lambda Expressions in Java?**](https://ieeexplore.ieee.org/document/9678600)  
+  **Mingwei Zheng**, Jun Yang, Ming Wen*, Hengcheng Zhu, Yepang Liu, and Hai Jin  
+  *The IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)*
 
 ## Service
 * Reviewer, IEEE Internet of Things Journal (2023)
