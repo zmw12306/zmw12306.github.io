@@ -32,6 +32,7 @@ redirect_from:
 * Reviewer, High-Confidence Computing (2023)
 * Reviewer, IEEE Transactions on Wireless Communications (2023)
 * Reviewer, PeerJ Computer Science (2023, 2024)
+* Reviewer, Computer Networks (2024)
 
 ## Teaching
 * Teaching Assistant, CS 18000: Problem Solving And Object-Oriented Programming (2022 Spring)
