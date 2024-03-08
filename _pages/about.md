@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a third year PhD student at [the Department of Computer Science](https://www.cs.purdue.edu) at [Purdue University](https://www.purdue.edu), advised by Prof. [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/) since 2021. Before that, I received my bachelor's degree in Computer Science and Technology from Huazhong University of Science and Technology in 2020.
+* I am currently a third-year PhD student at [the Department of Computer Science](https://www.cs.purdue.edu) at [Purdue University](https://www.purdue.edu), advised by Prof. [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/) since 2021. Before that, I received my bachelor's degree in Computer Science and Technology from Huazhong University of Science and Technology in 2020.
 
-* My research interests are program analysis, software testing and formal methods.
+* My research interests are program analysis, software testing, and formal methods.
 
 ## Publication
 
@@ -28,7 +28,7 @@ redirect_from:
 
 ## Service
 * Reviewer, IEEE Internet of Things Journal (2023, 2024)
-* Reviewer, High-Confidence Computing (2023)
+* Reviewer, High-Confidence Computing (2023, 2024)
 * Reviewer, IEEE Transactions on Wireless Communications (2023)
 * Reviewer, PeerJ Computer Science (2023, 2024)
 * Reviewer, Computer Networks (2024)
