@@ -14,25 +14,29 @@ redirect_from:
 ## Publication
 
 - **ParDiff: Practical Static Differential Analysis of Network Protocol Parsers**  
-  (**To appear**)  
   **Mingwei Zheng**, Qingkai Shi, Xuwei Liu, Xiangzhe Xu, Le Yu, Congyu Liu, Guannan Wei, Xiangyu Zhang  
   *The ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications (OOPSLA 2024)*
-  [PDF](/files/oopsla.pdf)
+  *[Paper](/files/oopsla.pdf)
+  [Code](https://github.com/zmw12306/ParDiff)
 
-- [**Lifting Network Protocol Implementation to Precise Format Specification with Security Applications**](https://dl.acm.org/doi/abs/10.1145/3576915.3616614)  
+- **Lifting Network Protocol Implementation to Precise Format Specification with Security Applications**  
   Qingkai Shi, Junyang Shao, Yapeng Ye, **Mingwei Zheng**, Xiangyu Zhang  
   *The ACM Conference on Computer and Communications Security (CCS 2023)*
+  *[Paper](https://dl.acm.org/doi/abs/10.1145/3576915.3616614)
+  [Code](https://github.com/qingkaishi/netlifter)
 
-- [**Why Do Developers Remove Lambda Expressions in Java?**](https://ieeexplore.ieee.org/document/9678600)  
+- **Why Do Developers Remove Lambda Expressions in Java?**
   **Mingwei Zheng**, Jun Yang, Ming Wen, Hengcheng Zhu, Yepang Liu, Hai Jin  
   *The IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)*
+  *[Paper](https://ieeexplore.ieee.org/document/9678600)  
+  [Code](https://github.com/zmw12306/LambdaMisuse)
 
 ## Service
 * Reviewer, IEEE Internet of Things Journal (2023, 2024)
 * Reviewer, High-Confidence Computing (2023, 2024)
 * Reviewer, IEEE Transactions on Wireless Communications (2023)
-* Reviewer, PeerJ Computer Science (2023, 2024)
 * Reviewer, Computer Networks (2024)
+* Reviewer, PeerJ Computer Science (2023, 2024)
 
 ## Teaching
 * Teaching Assistant, CS 18000: Problem Solving And Object-Oriented Programming (2022 Spring)
