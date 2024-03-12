@@ -22,7 +22,7 @@ redirect_from:
   *The ACM Conference on Computer and Communications Security (CCS 2023)*
 
 - [**Why Do Developers Remove Lambda Expressions in Java?**](https://ieeexplore.ieee.org/document/9678600) 
-  **Mingwei Zheng**, Jun Yang, Ming Wen, Hengcheng Zhu, Yepang Liu, Hai Jin  
+  **Mingwei Zheng**, Jun Yang, Ming Wen, Hengcheng Zhu, Yepang Liu, Hai Jin
   *The IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)*
 
 ## Service
