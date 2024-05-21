@@ -12,8 +12,7 @@ redirect_from:
 * My research interests are program analysis, software testing, and formal methods.
 
 ## Experience
-* May 2024-Aug. 2024 Research intern at Microsoft Research, Redmond (the RiSE group)
-
+* May 2024-Aug. 2024 Research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/), Redmond (the [RiSE](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/) group)
 ## Publication
 
 - [**ParDiff: Practical Static Differential Analysis of Network Protocol Parsers**](/files/oopsla.pdf)  
