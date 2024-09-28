@@ -12,13 +12,15 @@ redirect_from:
 * My research interests are program analysis, software testing, and formal methods.
 
 ## Experience
-* May 2024-Aug. 2024 Research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/), Redmond (the [RiSE](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/) group)
+- **Research Intern at Microsoft Research,  [RiSE Group](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/)**
+  - *Redmond, WA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (May 2024 - Aug. 2024)*
   
 ## Publication
 
 - [**ParDiff: Practical Static Differential Analysis of Network Protocol Parsers**](/files/oopsla.pdf)  
   **Mingwei Zheng**, Qingkai Shi, Xuwei Liu, Xiangzhe Xu, Le Yu, Congyu Liu, Guannan Wei, Xiangyu Zhang  
-  *The ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications (OOPSLA 2024)*
+  *The ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications (OOPSLA 2024)*  
+  🏆 <span style="color:red;">**ACM SIGPLAN Distinguished Paper Award**</span>
 
 - [**Lifting Network Protocol Implementation to Precise Format Specification with Security Applications**](https://dl.acm.org/doi/abs/10.1145/3576915.3616614)  
   Qingkai Shi, Junyang Shao, Yapeng Ye, **Mingwei Zheng**, Xiangyu Zhang  
@@ -27,6 +29,10 @@ redirect_from:
 - [**Why Do Developers Remove Lambda Expressions in Java?**](https://ieeexplore.ieee.org/document/9678600)  
   **Mingwei Zheng**, Jun Yang, Ming Wen, Hengcheng Zhu, Yepang Liu, Hai Jin  
   *The IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)*
+
+## Awards
+* ACM SIGPLAN Distinguished Paper Award (OOPSLA 2024)
+* Outstanding Graduate, HUST, 2020  
 
 ## Service
 * Reviewer, IEEE Internet of Things Journal (2023, 2024)
