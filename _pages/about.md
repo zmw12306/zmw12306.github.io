@@ -44,3 +44,7 @@ redirect_from:
 ## Teaching
 * Teaching Assistant, CS 18000: Problem Solving And Object-Oriented Programming (2022 Spring)
 * Teaching Assistant, CS 30700: Software Engineering (2022 Fall)
+<div id="visitor-map">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=psQ8Rihd_X8fw1h8uZ0J5y2jtMONSJ5J2DOmW_bAxuM&cl=ffffff&w=a"></script>
+</div>
+
