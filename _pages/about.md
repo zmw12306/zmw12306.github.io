@@ -39,17 +39,13 @@ redirect_from:
 
 ## Invited Talks
 
-- **Static Differential Analysis of Network Protocol Parsers**  
-  <span style="float: right;">University of Illinois Urbana-Champaign, Nov. 2024</span>
+- ParDiff: Practical Static Differential Analysis of Network Protocol Parsers   &nbsp;&nbsp;*(iSE, University of Illinois Urbana-Champaign, Nov. 2024)*
 
-- **Pardiff: Practical Static Differential Analysis of Network Protocol Parsers**  
-  <span style="float: right;">OOPSLA, Oct. 2024</span>
+- ParDiff: Practical Static Differential Analysis of Network Protocol Parsers   &nbsp;&nbsp;*(OOPSLA, Oct. 2024)*
 
-- **Pardiff: Practical Static Differential Analysis of Network Protocol Parsers**  
-  <span style="float: right;">LangSec Workshop, May 2024</span>
+- ParDiff: Practical Static Differential Analysis of Network Protocol Parsers   &nbsp;&nbsp;*(LangSec Workshop, May 2024)*
 
-- **Why Do Developers Remove Lambda Expressions in Java?**  
-  <span style="float: right;">ASE, Nov. 2021</span>
+- Why Do Developers Remove Lambda Expressions in Java?   &nbsp;&nbsp;*(ASE, Nov. 2021)*
 
 
 ## Service
