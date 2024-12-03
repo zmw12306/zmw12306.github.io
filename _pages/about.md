@@ -7,17 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a third-year PhD student at [the Department of Computer Science](https://www.cs.purdue.edu) at [Purdue University](https://www.purdue.edu), advised by Prof. [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/) since 2021. Before that, I received my bachelor's degree in Computer Science and Technology from Huazhong University of Science and Technology in 2020.
+* I am currently a fourth-year PhD student at [the Department of Computer Science](https://www.cs.purdue.edu) at [Purdue University](https://www.purdue.edu), advised by Prof. [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/) since 2021. Before that, I received my bachelor's degree in Computer Science and Technology from Huazhong University of Science and Technology in 2020.
 
-* My research interests are program analysis, software testing, and formal methods.
+* My research interests are Large Language Models (LLM) for software engineering, and traditional program analysis/software testing.
 
 ## Experience
 - **Research Intern at Microsoft Research,  [RiSE Group](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/)**
   - *Redmond, WA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (May 2024 - Aug. 2024)*
+  - Project:  LLM-Based Multi-Agent System for Automated Code Refactoring
+- **Part-time Intern at Microsoft Research, [RiSE Group](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/)**
+  - *Remote &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Sep. 2024 - Dec. 2024)*
   
 ## Publication
 
-- [**ParDiff: Practical Static Differential Analysis of Network Protocol Parsers**](/files/oopsla.pdf)  
+- [**ParDiff: Practical Static Differential Analysis of Network Protocol Parsers**](https://dl.acm.org/doi/abs/10.1145/3649854)  
   **Mingwei Zheng**, Qingkai Shi, Xuwei Liu, Xiangzhe Xu, Le Yu, Congyu Liu, Guannan Wei, Xiangyu Zhang  
   *The ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications (OOPSLA 2024)*  
   🏆 <span style="color:red;">**ACM SIGPLAN Distinguished Paper Award**</span>
@@ -32,7 +35,22 @@ redirect_from:
 
 ## Awards
 * ACM SIGPLAN Distinguished Paper Award (OOPSLA 2024)
-* Outstanding Graduate, HUST, 2020  
+* Outstanding Graduate, HUST, 2020
+
+## Invited Talks
+
+- **Static Differential Analysis of Network Protocol Parsers**  
+  <span style="float: right;">University of Illinois Urbana-Champaign, Nov. 2024</span>
+
+- **Pardiff: Practical Static Differential Analysis of Network Protocol Parsers**  
+  <span style="float: right;">OOPSLA, Oct. 2024</span>
+
+- **Pardiff: Practical Static Differential Analysis of Network Protocol Parsers**  
+  <span style="float: right;">LangSec Workshop, May 2024</span>
+
+- **Why Do Developers Remove Lambda Expressions in Java?**  
+  <span style="float: right;">ASE, Nov. 2021</span>
+
 
 ## Service
 * Reviewer, IEEE Internet of Things Journal (2023, 2024)
