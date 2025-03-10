@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a fourth-year PhD student at [the Department of Computer Science](https://www.cs.purdue.edu) at [Purdue University](https://www.purdue.edu), advised by Prof. [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/) since 2021. Before that, I received my bachelor's degree in Computer Science and Technology from Huazhong University of Science and Technology in 2020.
+* I am currently a PhD candidate in the [Department of Computer Science](https://www.cs.purdue.edu) at [Purdue University](https://www.purdue.edu), advised by Prof. [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/) since 2021. Before that, I received my bachelor's degree in Computer Science and Technology from Huazhong University of Science and Technology in 2020.
 
 * My research interests are Large Language Models (LLM) for software engineering, and traditional program analysis/software testing.
 
