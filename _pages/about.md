@@ -19,25 +19,20 @@ redirect_from:
   - *Remote &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Sep. 2024 - Dec. 2024)*
   
 ## Publication
-- **Validating Network Protocol Parsers with Traceable RFC Document Interpretation**
-
-
+- **Validating Network Protocol Parsers with Traceable RFC Document Interpretation** (To Appear)<br>
   **Mingwei Zheng**, Danning Xie, Qingkai Shi, Chengpeng Wang,  Xiangyu Zhang  
   *The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025)*  
 
-- [**ParDiff: Practical Static Differential Analysis of Network Protocol Parsers**](https://dl.acm.org/doi/abs/10.1145/3649854)
-  
+- [**ParDiff: Practical Static Differential Analysis of Network Protocol Parsers**](https://dl.acm.org/doi/abs/10.1145/3649854)  
   **Mingwei Zheng**, Qingkai Shi, Xuwei Liu, Xiangzhe Xu, Le Yu, Congyu Liu, Guannan Wei, Xiangyu Zhang  
   *The ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications (OOPSLA 2024)*  
   🏆 <span style="color:red;">**ACM SIGPLAN Distinguished Paper Award**</span>
 
 - [**Lifting Network Protocol Implementation to Precise Format Specification with Security Applications**](https://dl.acm.org/doi/abs/10.1145/3576915.3616614)
-  
   Qingkai Shi, Junyang Shao, Yapeng Ye, **Mingwei Zheng**, Xiangyu Zhang  
   *The ACM Conference on Computer and Communications Security (CCS 2023)*
 
-- [**Why Do Developers Remove Lambda Expressions in Java?**](https://ieeexplore.ieee.org/document/9678600)  
-
+- [**Why Do Developers Remove Lambda Expressions in Java?**](https://ieeexplore.ieee.org/document/9678600) 
   **Mingwei Zheng**, Jun Yang, Ming Wen, Hengcheng Zhu, Yepang Liu, Hai Jin  
   *The IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)*
 
