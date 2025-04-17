@@ -24,7 +24,11 @@ Project: *LLM-Based Multi-Agent System for Automated Code Refactoring*
 ## Publication
 - **Validating Network Protocol Parsers with Traceable RFC Document Interpretation** (To Appear)<br>
   **Mingwei Zheng**, Danning Xie, Qingkai Shi, Chengpeng Wang,  Xiangyu Zhang  
-  *The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025)*  
+  *The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025)*
+
+- **Large Language Models for Validating Network Protocol Parsers** (To Appear)<br>
+  **Mingwei Zheng**, Danning Xie, Xiangyu Zhang <br>
+  *The Eleventh Workshop on Language-Theoretic Security at the IEEE CS Security & Privacy Workshops (LangSec 2025)*
 
 - [**ParDiff: Practical Static Differential Analysis of Network Protocol Parsers**](https://dl.acm.org/doi/abs/10.1145/3649854) <br>
   **Mingwei Zheng**, Qingkai Shi, Xuwei Liu, Xiangzhe Xu, Le Yu, Congyu Liu, Guannan Wei, Xiangyu Zhang  
