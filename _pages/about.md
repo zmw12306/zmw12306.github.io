@@ -22,7 +22,7 @@ Project: *LLM-Based Multi-Agent System for Automated Code Refactoring*
 *Remote* — **Sep. 2024 – Dec. 2024**
 
 ## Publication
-- [**Validating Network Protocol Parsers with Traceable RFC Document Interpretation**](https://conf.researchr.org/home/issta-2025)<br>
+- [**Validating Network Protocol Parsers with Traceable RFC Document Interpretation**](https://conf.researchr.org/details/issta-2025/issta-2025-papers/77/Validating-Network-Protocol-Parsers-with-Traceable-RFC-Document-Interpretation) <br>
   **Mingwei Zheng**, Danning Xie, Qingkai Shi, Chengpeng Wang,  Xiangyu Zhang  
   *The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025)*
 
