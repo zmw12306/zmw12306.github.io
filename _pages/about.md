@@ -26,7 +26,7 @@ Project: *LLM-Based Multi-Agent System for Automated Code Refactoring*
   **Mingwei Zheng**, Danning Xie, Qingkai Shi, Chengpeng Wang, Xiangyu Zhang <br>
   *The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025)*
 
-- [**Large Language Models for Validating Network Protocol Parsers**](https://arxiv.org/pdf/2504.13515)) <br>
+- [**Large Language Models for Validating Network Protocol Parsers**](https://arxiv.org/pdf/2504.13515) <br>
   **Mingwei Zheng**, Danning Xie, Xiangyu Zhang <br>
   *The Eleventh Workshop on Language-Theoretic Security at the IEEE CS Security & Privacy Workshops (LangSec 2025)*
 
@@ -51,11 +51,7 @@ Project: *LLM-Based Multi-Agent System for Automated Code Refactoring*
 
 - *ParDiff: Practical Static Differential Analysis of Network Protocol Parsers*  
   - iSE, University of Illinois Urbana-Champaign, Nov. 2024  
-  - OOPSLA, Oct. 2024  
   - LangSec Workshop, May 2024  
-
-- *Why Do Developers Remove Lambda Expressions in Java?*  
-  - ASE, Nov. 2021
   
 ## Service
 - Program Committee, [EXPRESS 2025](https://conf.researchr.org/home/issta-2025/express-2025) (ISSTA Workshop)  
@@ -64,7 +60,7 @@ Project: *LLM-Based Multi-Agent System for Automated Code Refactoring*
   - High-Confidence Computing (2023, 2024)  
   - IEEE Transactions on Wireless Communications (2023)  
   - Computer Networks (2024)  
-  - PeerJ Computer Science (2023, 2024)
+  - PeerJ Computer Science (2023, 2024, 2025)
 
 ## Teaching
 - Teaching Assistant, CS 18000: Problem Solving and Object-Oriented Programming — *Spring 2022*  
