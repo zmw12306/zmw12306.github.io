@@ -21,6 +21,9 @@ Project: *LLM-Based Multi-Agent System for Automated Code Refactoring*
 *Remote* — **Sep. 2024 – Dec. 2024**
 
 ## Publication
+- **PR²: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust** (Arxiv) <br>
+  Yifei Gao, Chengpeng Wang, Pengxiang Huang, Xuwei Liu, **Mingwei Zheng**, Xiangyu Zhang <br>
+  
 - [**Validating Network Protocol Parsers with Traceable RFC Document Interpretation**](https://conf.researchr.org/details/issta-2025/issta-2025-papers/77/Validating-Network-Protocol-Parsers-with-Traceable-RFC-Document-Interpretation) <br>
   **Mingwei Zheng**, Danning Xie, Qingkai Shi, Chengpeng Wang, Xiangyu Zhang <br>
   *The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025)*
