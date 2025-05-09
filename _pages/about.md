@@ -36,7 +36,7 @@ Project: *LLM-Based Multi-Agent System for Automated Code Refactoring*
 - [**ParDiff: Practical Static Differential Analysis of Network Protocol Parsers**](https://dl.acm.org/doi/abs/10.1145/3649854) <br>
   **Mingwei Zheng**, Qingkai Shi, Xuwei Liu, Xiangzhe Xu, Le Yu, Congyu Liu, Guannan Wei, Xiangyu Zhang  
   *The ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications (OOPSLA 2024)*  
-  🏆 <span style="color:red;">**ACM SIGPLAN Distinguished Paper Award**</span>
+  🏆 <span style="color:red;">**ACM SIGPLAN Distinguished Paper Award** (7 out of 148 accepted papers) </span>
 
 - [**Lifting Network Protocol Implementation to Precise Format Specification with Security Applications**](https://dl.acm.org/doi/abs/10.1145/3576915.3616614) <br>
   Qingkai Shi, Junyang Shao, Yapeng Ye, **Mingwei Zheng**, Xiangyu Zhang  
