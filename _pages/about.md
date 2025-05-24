@@ -20,11 +20,10 @@ Project: *LLM-Based Multi-Agent System for Automated Code Refactoring*
 **Part-time Research Intern** @ [Microsoft Research, RiSE Group](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/)  
 *Remote* — **Sep. 2024 – Dec. 2024**
 
-## Publication
-- [**PR²: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust**](https://arxiv.org/abs/2505.04852) <br>
-  Yifei Gao, Chengpeng Wang, Pengxiang Huang, Xuwei Liu, **Mingwei Zheng**, Xiangyu Zhang <br>
-  *arXiv preprint, arXiv:2505.04852 (2025)* 
+**Research Intern** @ [Microsoft Research, RiSE Group](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/)  
+*Redmond, WA* — **May 2025 – Aug. 2025**  
   
+## Publication  
 - [**Validating Network Protocol Parsers with Traceable RFC Document Interpretation**](https://conf.researchr.org/details/issta-2025/issta-2025-papers/77/Validating-Network-Protocol-Parsers-with-Traceable-RFC-Document-Interpretation) <br>
   **Mingwei Zheng**, Danning Xie, Qingkai Shi, Chengpeng Wang, Xiangyu Zhang <br>
   *The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025)*
@@ -45,6 +44,11 @@ Project: *LLM-Based Multi-Agent System for Automated Code Refactoring*
 - [**Why Do Developers Remove Lambda Expressions in Java?**](https://ieeexplore.ieee.org/document/9678600) <br>
   **Mingwei Zheng**, Jun Yang, Ming Wen, Hengcheng Zhu, Yepang Liu, Hai Jin  
   *The IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)*
+
+## Preprint
+- [**PR²: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust**](https://arxiv.org/abs/2505.04852) <br>
+  Yifei Gao, Chengpeng Wang, Pengxiang Huang, Xuwei Liu, **Mingwei Zheng**, Xiangyu Zhang <br>
+  *arXiv preprint, arXiv:2505.04852 (2025)*
 
 ## Awards
 * ACM SIGPLAN Distinguished Paper Award (OOPSLA 2024)
