@@ -14,15 +14,16 @@ My research interests include **Large Language Models (LLMs) for software engine
 
 ## Experience
 **Research Intern** @ [Microsoft Research, RiSE Group](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/)  
-*Redmond, WA* — **May 2024 – Aug. 2024**  
-Project: *LLM-Based Multi-Agent System for Automated Code Refactoring*
+*Redmond, WA* — **May 2025 – now** 
 
 **Part-time Research Intern** @ [Microsoft Research, RiSE Group](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/)  
 *Remote* — **Sep. 2024 – Dec. 2024**
 
 **Research Intern** @ [Microsoft Research, RiSE Group](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/)  
-*Redmond, WA* — **May 2025 – Aug. 2025**  
-  
+*Redmond, WA* — **May 2024 – Aug. 2024**  
+Project: *LLM-Based Multi-Agent System for Automated Code Refactoring*
+
+
 ## Publication  
 - [**Validating Network Protocol Parsers with Traceable RFC Document Interpretation**](https://conf.researchr.org/details/issta-2025/issta-2025-papers/77/Validating-Network-Protocol-Parsers-with-Traceable-RFC-Document-Interpretation) <br>
   **Mingwei Zheng**, Danning Xie, Qingkai Shi, Chengpeng Wang, Xiangyu Zhang <br>
