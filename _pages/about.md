@@ -47,6 +47,10 @@ Project: *LLM-Based Multi-Agent System for Automated Code Refactoring*
   *The IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)*
 
 ## Preprint
+- [**An LLM Agent for Functional Bug Detection in Network Protocols**](https://arxiv.org/abs/2506.00714)<br>
+  **Mingwei Zheng**, Chengpeng Wang, Xuwei Liu, Jinyao Guo, Shiwei Feng, Xiangyu Zhang
+  *arXiv preprint, arXiv:2506.00714 (2025)*
+
 - [**PR²: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust**](https://arxiv.org/abs/2505.04852) <br>
   Yifei Gao, Chengpeng Wang, Pengxiang Huang, Xuwei Liu, **Mingwei Zheng**, Xiangyu Zhang <br>
   *arXiv preprint, arXiv:2505.04852 (2025)*
