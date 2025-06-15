@@ -50,6 +50,10 @@ Project: *LLM-Based Multi-Agent System for Automated Code Refactoring*
 - [**An LLM Agent for Functional Bug Detection in Network Protocols**](https://arxiv.org/abs/2506.00714)<br>
   **Mingwei Zheng**, Chengpeng Wang, Xuwei Liu, Jinyao Guo, Shiwei Feng, Xiangyu Zhang
   *arXiv preprint, arXiv:2506.00714 (2025)*
+  
+- [**IntenTest: Stress Testing for Intent Integrity in API-Calling LLM Agents**](https://arxiv.org/abs/2506.07524) <br>
+  Shiwei Feng, Xiangzhe Xu, Xuan Chen, Kaiyuan Zhang, Syed Yusuf Ahmed, Zian Su, **Mingwei Zheng**, Xiangyu Zhang <br>
+  *arXiv preprint, arXiv:2506.07524 (2025)*
 
 - [**PR²: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust**](https://arxiv.org/abs/2505.04852) <br>
   Yifei Gao, Chengpeng Wang, Pengxiang Huang, Xuwei Liu, **Mingwei Zheng**, Xiangyu Zhang <br>
