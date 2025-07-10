@@ -52,7 +52,7 @@ Project: *LLM-Based Multi-Agent System for Automated Code Refactoring*
   *arXiv preprint, arXiv:2506.00714 (2025)*
 
 - [**CORE: Benchmarking LLMs’ Code Reasoning Capabilities through Static Analysis Tasks**]()<br>
-  Danning Xie*, **Mingwei Zheng***, Xuwei Liu, Jiannan Wang, Chengpeng Wang, Lin Tan, Xiangyu Zhang <br>
+  Danning Xie\*, **Mingwei Zheng**\*, Xuwei Liu, Jiannan Wang, Chengpeng Wang, Lin Tan, Xiangyu Zhang <br>
   *arXiv preprint, arXiv:2507.05269 (2025)*<br>
   *\* Equal contribution*
   
