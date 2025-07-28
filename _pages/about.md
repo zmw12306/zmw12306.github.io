@@ -11,6 +11,8 @@ I am a Ph.D. candidate in the [Department of Computer Science](https://www.cs.pu
 
 My research interests include **Large Language Models (LLMs) for software engineering** and **traditional program analysis and software testing**.
 
+[Academic CV](https://zmw12306.github.io/files/Resume_acade.pdf)
+
 
 ## Experience
 **Research Intern** @ [Microsoft Research, RiSE Group](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/)  
