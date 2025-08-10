@@ -16,7 +16,7 @@ My research interests include **Large Language Models (LLMs) + Software Engineer
 
 ## Experience
 **Research Intern** @ [Microsoft Research, RiSE Group](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/)  
-*Redmond, WA* — **May 2025 – now** 
+*Redmond, WA* — **May 2025 – Aug. 2025** 
 
 **Part-time Research Intern** @ [Microsoft Research, RiSE Group](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/)  
 *Remote* — **Sep. 2024 – Dec. 2024**
