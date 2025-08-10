@@ -71,6 +71,8 @@ Project: *LLM-Based Multi-Agent System for Automated Code Refactoring*
 * Outstanding Graduate, HUST, 2020
 
 ## Invited Talks
+- *An LLM Agent for Functional Bug Detection in Network Protocols*
+  - [Boston Computation Club](https://bstn.cc), Aug. 2025
 
 - *ParDiff: Practical Static Differential Analysis of Network Protocol Parsers*  
   - iSE, University of Illinois Urbana-Champaign, Nov. 2024  
