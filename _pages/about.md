@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. candidate in the [Department of Computer Science](https://www.cs.purdue.edu) at [Purdue University](https://www.purdue.edu), advised by [Prof. Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/) since 2021. Before that, I received my Bachelor's degree in Computer Science and Technology from Huazhong University of Science and Technology in 2020.
 
-My research interests include **Large Language Models (LLMs) for software engineering** and **traditional program analysis and software testing**.
+My research interests include **Large Language Models (LLMs) + Software Engineering**.
 
 [[Academic CV](https://zmw12306.github.io/files/Resume_academia__public.pdf)]
 
@@ -53,7 +53,7 @@ Project: *LLM-Based Multi-Agent System for Automated Code Refactoring*
   **Mingwei Zheng**, Chengpeng Wang, Xuwei Liu, Jinyao Guo, Shiwei Feng, Xiangyu Zhang
   *arXiv preprint, arXiv:2506.00714 (2025)*
 
-- [**CORE: Benchmarking LLMs’ Code Reasoning Capabilities through Static Analysis Tasks**]()<br>
+- [**CORE: Benchmarking LLMs’ Code Reasoning Capabilities through Static Analysis Tasks**](https://www.arxiv.org/pdf/2507.05269)<br>
   Danning Xie\*, **Mingwei Zheng**\*, Xuwei Liu, Jiannan Wang, Chengpeng Wang, Lin Tan, Xiangyu Zhang <br>
   *arXiv preprint, arXiv:2507.05269 (2025)*<br>
   *\* Equal contribution*
