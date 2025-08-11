@@ -15,6 +15,9 @@ My research lies at the intersection of **Large Language Models (LLMs) and Softw
 
 
 ## Experience
+**Applied Science Intern** @ [AWS, Amazon Q Developer](https://aws.amazon.com/q/developer/)
+*Santa Clara, CA* - **Aug. 2025 – Nov. 2025** 
+
 **Research Intern** @ [Microsoft Research, RiSE Group](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/)  
 *Redmond, WA* — **May 2025 – Aug. 2025** 
 
