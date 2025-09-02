@@ -25,7 +25,7 @@ Project: *LLM Agent for Semantic Testing of Software Systems*
 
 **Research Intern** @ [Microsoft Research, RiSE Group](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/)  
 *Redmond, WA* — **May 2024 – Dec. 2024**  
-Project: *AutoParse: LLM Agent for Refactoring Network Protocol Code with Verified Parsers*
+Project: *LLM Agent for Refactoring Network Protocol Code with Verified Parsers*
 
 
 ## Publication  
