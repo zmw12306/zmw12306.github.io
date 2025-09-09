@@ -29,6 +29,10 @@ Project: *LLM Agent for Refactoring Network Protocol Code with Verified Parsers*
 
 
 ## Publication  
+- **SFA-Miner: Mining Path-Sensitive API Usage Patterns via Symbolic Finite Automata** <br>
+  Jiasheng Jiang, **Mingwei Zheng**, Qingkai Shi, Xiangyu Zhang <br>
+  *The IEEE Symposium on Security and Privacy (S&P 2026)*
+  
 - [**Validating Network Protocol Parsers with Traceable RFC Document Interpretation**](https://conf.researchr.org/details/issta-2025/issta-2025-papers/77/Validating-Network-Protocol-Parsers-with-Traceable-RFC-Document-Interpretation) <br>
   **Mingwei Zheng**, Danning Xie, Qingkai Shi, Chengpeng Wang, Xiangyu Zhang <br>
   *The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025)*
@@ -52,7 +56,7 @@ Project: *LLM Agent for Refactoring Network Protocol Code with Verified Parsers*
 
 ## Preprint
 - [**An LLM Agent for Functional Bug Detection in Network Protocols**](https://arxiv.org/abs/2506.00714)<br>
-  **Mingwei Zheng**, Chengpeng Wang, Xuwei Liu, Jinyao Guo, Shiwei Feng, Xiangyu Zhang
+  **Mingwei Zheng**, Chengpeng Wang, Xuwei Liu, Jinyao Guo, Shiwei Feng, Xiangyu Zhang <br>
   *arXiv preprint, arXiv:2506.00714 (2025)*
 
 - [**CORE: Benchmarking LLMs’ Code Reasoning Capabilities through Static Analysis Tasks**](https://www.arxiv.org/pdf/2507.05269)<br>
