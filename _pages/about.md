@@ -15,9 +15,9 @@ My research focuses on building efficient and effective **LLM agents for automat
 
 
 ## Experience
-**Applied Science Intern** @ [AWS, Amazon Q Developer](https://aws.amazon.com/q/developer/) <br>
+**Applied Science Intern** @ [AWS, Agentic AI](https://aws.amazon.com/ai/agentic-ai) <br>
 *Santa Clara, CA* — **Aug. 2025 – Nov. 2025**  
-Project: *Coding Agent Framework Optimization*
+Project: *Coding Agent Optimization*
 
 **Research Intern** @ [Microsoft Research, RiSE Group](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/)  
 *Redmond, WA* — **May 2025 – Aug. 2025**  
