@@ -29,6 +29,10 @@ Project: *LLM Agent for Refactoring Network Protocol Code with Verified Parsers*
 
 
 ## Publication  
+- [**IntenTest: Stress Testing for Intent Integrity in API-Calling LLM Agents**](https://arxiv.org/abs/2506.07524) <br>
+  Shiwei Feng, Xiangzhe Xu, Xuan Chen, Kaiyuan Zhang, Syed Yusuf Ahmed, Zian Su, **Mingwei Zheng**, Xiangyu Zhang <br>
+  *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)*
+  
 - **SFA-Miner: Mining Path-Sensitive API Usage Patterns via Symbolic Finite Automata** <br>
   Jiasheng Jiang, **Mingwei Zheng**, Qingkai Shi, Xiangyu Zhang <br>
   *The IEEE Symposium on Security and Privacy (S&P 2026)*
@@ -63,10 +67,6 @@ Project: *LLM Agent for Refactoring Network Protocol Code with Verified Parsers*
   Danning Xie\*, **Mingwei Zheng**\*, Xuwei Liu, Jiannan Wang, Chengpeng Wang, Lin Tan, Xiangyu Zhang <br>
   *arXiv preprint, arXiv:2507.05269 (2025)*<br>
   *\* Equal contribution*
-  
-- [**IntenTest: Stress Testing for Intent Integrity in API-Calling LLM Agents**](https://arxiv.org/abs/2506.07524) <br>
-  Shiwei Feng, Xiangzhe Xu, Xuan Chen, Kaiyuan Zhang, Syed Yusuf Ahmed, Zian Su, **Mingwei Zheng**, Xiangyu Zhang <br>
-  *arXiv preprint, arXiv:2506.07524 (2025)*
 
 - [**PR²: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust**](https://arxiv.org/abs/2505.04852) <br>
   Yifei Gao, Chengpeng Wang, Pengxiang Huang, Xuwei Liu, **Mingwei Zheng**, Xiangyu Zhang <br>
