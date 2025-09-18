@@ -28,14 +28,14 @@ Project: *LLM Agent for Semantic Testing of Software Systems*
 Project: *LLM Agent for Refactoring Network Protocol Code with Verified Parsers*
 
 
-## Publication  
-- [**IntenTest: Stress Testing for Intent Integrity in API-Calling LLM Agents**](https://arxiv.org/abs/2506.07524) <br>
-  Shiwei Feng, Xiangzhe Xu, Xuan Chen, Kaiyuan Zhang, Syed Yusuf Ahmed, Zian Su, **Mingwei Zheng**, Xiangyu Zhang <br>
-  *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)*
-  
+## Publication
 - **SFA-Miner: Mining Path-Sensitive API Usage Patterns via Symbolic Finite Automata** <br>
   Jiasheng Jiang, **Mingwei Zheng**, Qingkai Shi, Xiangyu Zhang <br>
   *The IEEE Symposium on Security and Privacy (S&P 2026)*
+  
+- [**IntenTest: Stress Testing for Intent Integrity in API-Calling LLM Agents**](https://arxiv.org/abs/2506.07524) <br>
+  Shiwei Feng, Xiangzhe Xu, Xuan Chen, Kaiyuan Zhang, Syed Yusuf Ahmed, Zian Su, **Mingwei Zheng**, Xiangyu Zhang <br>
+  *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)*
   
 - [**Validating Network Protocol Parsers with Traceable RFC Document Interpretation**](https://conf.researchr.org/details/issta-2025/issta-2025-papers/77/Validating-Network-Protocol-Parsers-with-Traceable-RFC-Document-Interpretation) <br>
   **Mingwei Zheng**, Danning Xie, Qingkai Shi, Chengpeng Wang, Xiangyu Zhang <br>
