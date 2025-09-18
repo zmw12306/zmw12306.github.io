@@ -35,8 +35,8 @@ Project: *LLM Agent for Refactoring Network Protocol Code with Verified Parsers*
 
 - [**CORE: Benchmarking LLMs’ Code Reasoning Capabilities through Static Analysis Tasks**](https://www.arxiv.org/pdf/2507.05269)<br>
   Danning Xie\*, **Mingwei Zheng**\*, Xuwei Liu, Jiannan Wang, Chengpeng Wang, Lin Tan, Xiangyu Zhang <br>
-  *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025, Datasets and Benchmarks Track)* <br>
-  *\* Equal contribution*, <span style="color:red;">**Spotlight** </span>
+  *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025, Datasets and Benchmarks Track，<span style="color:red;">**Spotlight**</span>)* <br>
+  *\* Equal contribution*
   
 - [**IntenTest: Stress Testing for Intent Integrity in API-Calling LLM Agents**](https://arxiv.org/abs/2506.07524) <br>
   Shiwei Feng, Xiangzhe Xu, Xuan Chen, Kaiyuan Zhang, Syed Yusuf Ahmed, Zian Su, **Mingwei Zheng**, Xiangyu Zhang <br>
