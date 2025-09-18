@@ -32,6 +32,11 @@ Project: *LLM Agent for Refactoring Network Protocol Code with Verified Parsers*
 - **SFA-Miner: Mining Path-Sensitive API Usage Patterns via Symbolic Finite Automata** <br>
   Jiasheng Jiang, **Mingwei Zheng**, Qingkai Shi, Xiangyu Zhang <br>
   *The IEEE Symposium on Security and Privacy (S&P 2026)*
+
+- [**CORE: Benchmarking LLMs’ Code Reasoning Capabilities through Static Analysis Tasks**](https://www.arxiv.org/pdf/2507.05269)<br>
+  Danning Xie\*, **Mingwei Zheng**\*, Xuwei Liu, Jiannan Wang, Chengpeng Wang, Lin Tan, Xiangyu Zhang <br>
+  *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025, Datasets and Benchmarks Track)* <br>
+  *\* Equal contribution*, <span style="color:red;">**Spotlight** </span>
   
 - [**IntenTest: Stress Testing for Intent Integrity in API-Calling LLM Agents**](https://arxiv.org/abs/2506.07524) <br>
   Shiwei Feng, Xiangzhe Xu, Xuan Chen, Kaiyuan Zhang, Syed Yusuf Ahmed, Zian Su, **Mingwei Zheng**, Xiangyu Zhang <br>
@@ -63,16 +68,12 @@ Project: *LLM Agent for Refactoring Network Protocol Code with Verified Parsers*
   **Mingwei Zheng**, Chengpeng Wang, Xuwei Liu, Jinyao Guo, Shiwei Feng, Xiangyu Zhang <br>
   *arXiv preprint, arXiv:2506.00714 (2025)*
 
-- [**CORE: Benchmarking LLMs’ Code Reasoning Capabilities through Static Analysis Tasks**](https://www.arxiv.org/pdf/2507.05269)<br>
-  Danning Xie\*, **Mingwei Zheng**\*, Xuwei Liu, Jiannan Wang, Chengpeng Wang, Lin Tan, Xiangyu Zhang <br>
-  *arXiv preprint, arXiv:2507.05269 (2025)*<br>
-  *\* Equal contribution*
-
 - [**PR²: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust**](https://arxiv.org/abs/2505.04852) <br>
   Yifei Gao, Chengpeng Wang, Pengxiang Huang, Xuwei Liu, **Mingwei Zheng**, Xiangyu Zhang <br>
   *arXiv preprint, arXiv:2505.04852 (2025)*
 
 ## Awards
+* NeurIPS 2025 Spotlight
 * ACM SIGPLAN Distinguished Paper Award (OOPSLA 2024)
 * Outstanding Graduate, HUST, 2020
 
