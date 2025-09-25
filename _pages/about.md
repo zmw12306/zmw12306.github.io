@@ -36,7 +36,7 @@ Project: *LLM Agent for Refactoring Network Protocol Code with Verified Parsers*
 - [**RFCAudit: AI Agent for Auditing Protocol Implementations
   Against RFC Specificationss**](https://arxiv.org/abs/2506.00714)<br>
   **Mingwei Zheng**, Chengpeng Wang, Xuwei Liu, Jinyao Guo, Shiwei Feng, Xiangyu Zhang <br>
-  *The IEEE/ACM International Conference on Automated Software Engineering (2025)*
+  *The IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)*
 
 - [**CORE: Benchmarking LLMs’ Code Reasoning Capabilities through Static Analysis Tasks**](https://www.arxiv.org/pdf/2507.05269)<br>
   Danning Xie\*, **Mingwei Zheng**\*, Xuwei Liu, Jiannan Wang, Chengpeng Wang, Lin Tan, Xiangyu Zhang <br>
@@ -74,7 +74,8 @@ Project: *LLM Agent for Refactoring Network Protocol Code with Verified Parsers*
   Yifei Gao, Chengpeng Wang, Pengxiang Huang, Xuwei Liu, **Mingwei Zheng**, Xiangyu Zhang <br>
   *arXiv preprint, arXiv:2505.04852 (2025)*
 
-## Awards
+## Honors and Awards
+* Spotlight paper @NeurIPS 2025, Datasets and Benchmarks Track
 * ACM SIGPLAN Distinguished Paper Award (OOPSLA 2024)
 * Outstanding Graduate, HUST, 2020
 
