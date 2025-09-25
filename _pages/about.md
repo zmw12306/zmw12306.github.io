@@ -32,6 +32,11 @@ Project: *LLM Agent for Refactoring Network Protocol Code with Verified Parsers*
 - **SFA-Miner: Mining Path-Sensitive API Usage Patterns via Symbolic Finite Automata** <br>
   Jiasheng Jiang, **Mingwei Zheng**, Qingkai Shi, Xiangyu Zhang <br>
   *The IEEE Symposium on Security and Privacy (S&P 2026)*
+  
+- [**RFCAudit: AI Agent for Auditing Protocol Implementations
+  Against RFC Specificationss**](https://arxiv.org/abs/2506.00714)<br>
+  **Mingwei Zheng**, Chengpeng Wang, Xuwei Liu, Jinyao Guo, Shiwei Feng, Xiangyu Zhang <br>
+  *The IEEE/ACM International Conference on Automated Software Engineering (2025)*
 
 - [**CORE: Benchmarking LLMs’ Code Reasoning Capabilities through Static Analysis Tasks**](https://www.arxiv.org/pdf/2507.05269)<br>
   Danning Xie\*, **Mingwei Zheng**\*, Xuwei Liu, Jiannan Wang, Chengpeng Wang, Lin Tan, Xiangyu Zhang <br>
@@ -65,10 +70,6 @@ Project: *LLM Agent for Refactoring Network Protocol Code with Verified Parsers*
   *The IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)*
 
 ## Preprint
-- [**An LLM Agent for Functional Bug Detection in Network Protocols**](https://arxiv.org/abs/2506.00714)<br>
-  **Mingwei Zheng**, Chengpeng Wang, Xuwei Liu, Jinyao Guo, Shiwei Feng, Xiangyu Zhang <br>
-  *arXiv preprint, arXiv:2506.00714 (2025)*
-
 - [**PR²: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust**](https://arxiv.org/abs/2505.04852) <br>
   Yifei Gao, Chengpeng Wang, Pengxiang Huang, Xuwei Liu, **Mingwei Zheng**, Xiangyu Zhang <br>
   *arXiv preprint, arXiv:2505.04852 (2025)*
