@@ -75,9 +75,9 @@ Project: *LLM Agent for Refactoring Network Protocol Code with Verified Parsers*
   *arXiv preprint, arXiv:2505.04852 (2025)*
 
 ## Honors and Awards
-* Spotlight paper @NeurIPS 2025, Datasets and Benchmarks Track
-* ACM SIGPLAN Distinguished Paper Award (OOPSLA 2024)
-* Outstanding Graduate, HUST, 2020
+* Spotlight Paper, NeurIPS 2025 (Datasets and Benchmarks Track)  
+* ACM SIGPLAN Distinguished Paper Award, OOPSLA 2024  
+* Outstanding Graduate, Huazhong University of Science and Technology (HUST), 2020  
 
 ## Invited Talks
 - *An LLM Agent for Functional Bug Detection in Network Protocols*
