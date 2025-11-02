@@ -19,15 +19,15 @@ My research focuses on building efficient and effective **LLM agents for automat
 ## Experience
 **Applied Science Intern** @ [AWS, Agentic AI](https://aws.amazon.com/ai/agentic-ai) <br>
 *Santa Clara, CA* — **Aug. 2025 – Nov. 2025**  
-Project: *Coding Agent Context Optimization*
+Project: Coding Agent Context Optimization
 
 **Research Intern** @ [Microsoft Research, RiSE Group](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/)  
 *Redmond, WA* — **May 2025 – Aug. 2025**  
-Project: *LLM Agent for Semantic Testing of Software Systems*
+Project: LLM Agent for Semantic Testing of Software Systems
 
 **Research Intern** @ [Microsoft Research, RiSE Group](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/)  
 *Redmond, WA* — **May 2024 – Dec. 2024**  
-Project: *LLM Agent for Refactoring Network Protocol Code with Verified Parsers*
+Project: LLM Agent for Refactoring Network Protocol Code with Verified Parsers
 
 
 ## Publication
