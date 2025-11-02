@@ -11,7 +11,7 @@ I am a Ph.D. candidate in the [Department of Computer Science](https://www.cs.pu
 
 My research focuses on building efficient and effective **LLM agents for automated software development tasks** such as code generation, software testing, and program repair, with the broader goal of improving software correctness, robustness, and trustworthiness.
 
-**P.S. I am actively seeking full-time positions in industry starting in 2026. Please feel free to reach out if you think I’d be a good fit!**
+**P.S. I am actively seeking full-time industry roles starting in summer 2026. Please feel free to reach out if you think I’d be a good fit!**
 
 [[Academic CV](https://zmw12306.github.io/files/Resume_academia__public.pdf)]
 
