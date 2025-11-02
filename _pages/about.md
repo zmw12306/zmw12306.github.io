@@ -11,13 +11,15 @@ I am a Ph.D. candidate in the [Department of Computer Science](https://www.cs.pu
 
 My research focuses on building efficient and effective **LLM agents for automated software development tasks** such as code generation, software testing, and program repair, with the broader goal of improving software correctness, robustness, and trustworthiness.
 
+**P.S. I’m actively seeking full-time research or applied scientist positions in industry starting in 2026. Please feel free to reach out if you think I’d be a good fit!**
+
 [[Academic CV](https://zmw12306.github.io/files/Resume_academia__public.pdf)]
 
 
 ## Experience
 **Applied Science Intern** @ [AWS, Agentic AI](https://aws.amazon.com/ai/agentic-ai) <br>
 *Santa Clara, CA* — **Aug. 2025 – Nov. 2025**  
-Project: *Coding Agent Optimization*
+Project: *Coding Agent Context Optimization*
 
 **Research Intern** @ [Microsoft Research, RiSE Group](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/)  
 *Redmond, WA* — **May 2025 – Aug. 2025**  
@@ -80,6 +82,9 @@ Project: *LLM Agent for Refactoring Network Protocol Code with Verified Parsers*
 * Outstanding Graduate, Huazhong University of Science and Technology (HUST), 2020  
 
 ## Invited Talks
+- *Semantic Bug Detection for Secure Network Protocol Implementations*
+  - [Languages, Systems, and Data Lab Seminar @ UCSC](https://lsd.ucsc.edu/lsd-seminar/2025fa/), Oct. 2025
+    
 - *An LLM Agent for Functional Bug Detection in Network Protocols*
   - [Boston Computation Club](https://bstn.cc), Aug. 2025
 
@@ -88,7 +93,9 @@ Project: *LLM Agent for Refactoring Network Protocol Code with Verified Parsers*
   - LangSec Workshop, May 2024  
   
 ## Service
-- Program Committee, [EXPRESS 2025](https://conf.researchr.org/home/issta-2025/express-2025) (ISSTA Workshop)  
+- Program Committee:
+  - [AAAI 2026 Workshop on Next-Gen Code Development with Collaborative AI Agents](https://sites.google.com/view/next-gen-code-agents-aaai26) 
+  - [EXPRESS 2025](https://conf.researchr.org/home/issta-2025/express-2025) (ISSTA Workshop)  
 - Reviewer:
   - IEEE Internet of Things Journal (2023, 2024)  
   - High-Confidence Computing (2023, 2024)  
