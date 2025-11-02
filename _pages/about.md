@@ -82,13 +82,13 @@ Project: *LLM Agent for Refactoring Network Protocol Code with Verified Parsers*
 * Outstanding Graduate, Huazhong University of Science and Technology (HUST), 2020  
 
 ## Invited Talks
-- *Semantic Bug Detection for Secure Network Protocol Implementations*
+- Semantic Bug Detection for Secure Network Protocol Implementations
   - [Languages, Systems, and Data Lab Seminar @ UCSC](https://lsd.ucsc.edu/lsd-seminar/2025fa/), Oct. 2025
     
-- *An LLM Agent for Functional Bug Detection in Network Protocols*
+- An LLM Agent for Functional Bug Detection in Network Protocols
   - [Boston Computation Club](https://bstn.cc), Aug. 2025
 
-- *ParDiff: Practical Static Differential Analysis of Network Protocol Parsers*  
+- ParDiff: Practical Static Differential Analysis of Network Protocol Parsers  
   - iSE, University of Illinois Urbana-Champaign, Nov. 2024  
   - LangSec Workshop, May 2024  
   
