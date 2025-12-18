@@ -31,7 +31,7 @@ Project: LLM Agent for Refactoring Network Protocol Code with Verified Parsers
 
 
 ## Publication
-- **SFA-Miner: Mining Path-Sensitive API Usage Patterns via Symbolic Finite Automata** <br>
+- [**SFA-Miner: Mining Path-Sensitive API Usage Patterns via Symbolic Finite Automata**](https://www.computer.org/csdl/proceedings-article/sp/2026/606500b036/2bojvQCauMo)<br>
   Jiasheng Jiang, **Mingwei Zheng**, Qingkai Shi, Xiangyu Zhang <br>
   *The IEEE Symposium on Security and Privacy (S&P 2026)*
   
