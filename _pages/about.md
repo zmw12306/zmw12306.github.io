@@ -77,6 +77,7 @@ Project: LLM Agent for Refactoring Network Protocol Code with Verified Parsers
   *arXiv preprint, arXiv:2505.04852 (2025)*
 
 ## Honors and Awards
+* WISP Graduate Travel Grant, Fall 2025
 * Spotlight Paper, NeurIPS 2025 (Datasets and Benchmarks Track)  
 * ACM SIGPLAN Distinguished Paper Award, OOPSLA 2024  
 * Outstanding Graduate, Huazhong University of Science and Technology (HUST), 2020  
@@ -94,6 +95,7 @@ Project: LLM Agent for Refactoring Network Protocol Code with Verified Parsers
   
 ## Service
 - Program Committee:
+  - [FSE 2026 Industry Track](https://conf.researchr.org/track/fse-2026/fse-2026-industry-papers)
   - [AAAI 2026 Workshop on Next-Gen Code Development with Collaborative AI Agents](https://sites.google.com/view/next-gen-code-agents-aaai26) 
   - [EXPRESS 2025](https://conf.researchr.org/home/issta-2025/express-2025) (ISSTA Workshop)  
 - Reviewer:
