@@ -99,6 +99,7 @@ Project: LLM Agent for Refactoring Network Protocol Code with Verified Parsers
   - [AAAI 2026 Workshop on Next-Gen Code Development with Collaborative AI Agents](https://sites.google.com/view/next-gen-code-agents-aaai26) 
   - [EXPRESS 2025](https://conf.researchr.org/home/issta-2025/express-2025) (ISSTA Workshop)  
 - Reviewer:
+  - Empirical Software Engineering (2026)
   - IEEE Internet of Things Journal (2023, 2024)  
   - High-Confidence Computing (2023, 2024)  
   - IEEE Transactions on Wireless Communications (2023)  
@@ -106,6 +107,7 @@ Project: LLM Agent for Refactoring Network Protocol Code with Verified Parsers
   - PeerJ Computer Science (2023, 2024, 2025)
 
 ## Teaching
+- Teaching Assistant, CS 18200: Foundations of Computer Science — *Spring 2026*
 - Teaching Assistant, CS 18000: Problem Solving and Object-Oriented Programming — *Spring 2022*  
 - Teaching Assistant, CS 30700: Software Engineering — *Fall 2022*
 
