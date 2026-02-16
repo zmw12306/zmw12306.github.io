@@ -72,6 +72,10 @@ Project: LLM Agent for Refactoring Network Protocol Code with Verified Parsers
   *The IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)*
 
 ## Preprint
+- [**Identifying Adversary Tactics and Techniques in Malware Binaries with an LLM Agent**](https://arxiv.org/abs/2602.06325)<br>
+  Zhou Xuan, Xiangzhe Xu, **Mingwei Zheng**, Louis Zheng-Hua Tan, Jinyao Guo, Tiantai Zhang, Le Yu, Chengpeng Wang, Xiangyu Zhang
+  *arXiv preprint, arXiv:2602.06325 (2026)*
+  
 - [**PR²: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust**](https://arxiv.org/abs/2505.04852) <br>
   Yifei Gao, Chengpeng Wang, Pengxiang Huang, Xuwei Liu, **Mingwei Zheng**, Xiangyu Zhang <br>
   *arXiv preprint, arXiv:2505.04852 (2025)*
