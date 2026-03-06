@@ -99,11 +99,13 @@ Project: LLM Agent for Refactoring Network Protocol Code with Verified Parsers
   
 ## Service
 - Program Committee:
+  - [AIware 2026 Benchmark & Dataset Track](https://2026.aiwareconf.org/track/aiware-2026-benchmark---dataset-track)
   - [FSE 2026 Industry Track](https://conf.researchr.org/track/fse-2026/fse-2026-industry-papers)
   - [AAAI 2026 Workshop on Next-Gen Code Development with Collaborative AI Agents](https://sites.google.com/view/next-gen-code-agents-aaai26) 
   - [EXPRESS 2025](https://conf.researchr.org/home/issta-2025/express-2025) (ISSTA Workshop)  
 - Reviewer:
   - Empirical Software Engineering (2026)
+  - IEEE Transactions on Network and Service Management (2026)
   - IEEE Internet of Things Journal (2023, 2024)  
   - High-Confidence Computing (2023, 2024)  
   - IEEE Transactions on Wireless Communications (2023)  
