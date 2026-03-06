@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. candidate in the [Department of Computer Science](https://www.cs.purdue.edu) at [Purdue University](https://www.purdue.edu), advised by [Prof. Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/) since 2021. Before that, I received my Bachelor's degree in Computer Science and Technology from Huazhong University of Science and Technology in 2020.
 
-My PhD research focuses on **improving software reliability and efficiency**. I build LLM agents or program analysis tools to automate software development tasks, including code generation, software testing, and program repair, with the broader goal of improving software correctness, robustness, and trustworthiness. My current work focuses on improving **LLM coding agents**.
+My research focuses on **improving software reliability and efficiency**. I build LLM agents or program analysis tools to automate software development tasks such as code generation, software testing, and program repair, with the broader goal of improving software correctness, robustness, and trustworthiness. Currently, I focus on building more reliable and effective **LLM coding agents**.
 
 ## Experience
 **Applied Science Intern** @ [AWS, Agentic AI, Kiro Science](https://aws.amazon.com/ai/agentic-ai) <br>
@@ -38,7 +38,6 @@ Project: LLM Agent for Refactoring Network Protocol Code with Verified Parsers
   Danning Xie\*, **Mingwei Zheng**\*, Xuwei Liu, Jiannan Wang, Chengpeng Wang, Lin Tan, Xiangyu Zhang <br>
   *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025, Datasets and Benchmarks Track)* <br>
   **\* Equal contribution**,      <span style="color:red;">**Spotlight** (56 out of 497 accepted papers) </span> <br>
-
   
 - [**IntenTest: Stress Testing for Intent Integrity in API-Calling LLM Agents**](https://arxiv.org/abs/2506.07524) <br>
   Shiwei Feng, Xiangzhe Xu, Xuan Chen, Kaiyuan Zhang, Syed Yusuf Ahmed, Zian Su, **Mingwei Zheng**, Xiangyu Zhang <br>
