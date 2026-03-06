@@ -9,17 +9,12 @@ redirect_from:
 
 I am a Ph.D. candidate in the [Department of Computer Science](https://www.cs.purdue.edu) at [Purdue University](https://www.purdue.edu), advised by [Prof. Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/) since 2021. Before that, I received my Bachelor's degree in Computer Science and Technology from Huazhong University of Science and Technology in 2020.
 
-My research focuses on **improving software reliability and efficiency**. I build **LLM agents or program analysis tools to automate software development tasks such as code generation, software testing, and program repair**, with the broader goal of improving software correctness, robustness, and trustworthiness.
-
-**P.S. I am actively seeking full-time industry roles starting in summer 2026. Please feel free to reach out if you think I’d be a good fit!**
-
-[[Academic CV](https://zmw12306.github.io/files/Resume_academia__public.pdf)]
-
+My PhD research focuses on **improving software reliability and efficiency**. I build LLM agents or program analysis tools to automate software development tasks, including code generation, software testing, and program repair, with the broader goal of improving software correctness, robustness, and trustworthiness. My current work focuses on improving **LLM coding agents**.
 
 ## Experience
-**Applied Science Intern** @ [AWS, Agentic AI](https://aws.amazon.com/ai/agentic-ai) <br>
+**Applied Science Intern** @ [AWS, Agentic AI, Kiro Science](https://aws.amazon.com/ai/agentic-ai) <br>
 *Santa Clara, CA* — **Aug. 2025 – Nov. 2025**  
-Project: Coding Agent Context Optimization
+Project: Context Optimization for LLM Coding Agent
 
 **Research Intern** @ [Microsoft Research, RiSE Group](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/)  
 *Redmond, WA* — **May 2025 – Aug. 2025**  
@@ -28,7 +23,6 @@ Project: LLM Agent for Semantic Testing of Software Systems
 **Research Intern** @ [Microsoft Research, RiSE Group](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/)  
 *Redmond, WA* — **May 2024 – Dec. 2024**  
 Project: LLM Agent for Refactoring Network Protocol Code with Verified Parsers
-
 
 ## Publication
 - [**SFA-Miner: Mining Path-Sensitive API Usage Patterns via Symbolic Finite Automata**](https://www.computer.org/csdl/proceedings-article/sp/2026/606500b036/2bojvQCauMo)<br>
