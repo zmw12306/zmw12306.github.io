@@ -25,6 +25,10 @@ Project: LLM Agent for Semantic Testing of Software Systems
 Project: LLM Agent for Refactoring Network Protocol Code with Verified Parsers
 
 ## Publication
+- [**NESA: Relational Neuro-Symbolic Static Program Analysis**]<br>
+  Chengpeng Wang, Yifei Gao, Wuqi Zhang, Xuwei Liu, Jinyao Guo, **Mingwei Zheng**, Qingkai Shi, Xiangyu Zhang <br>
+  *The ACM International Conference on the Foundations of Software Engineering (FSE 2026)*
+
 - [**SFA-Miner: Mining Path-Sensitive API Usage Patterns via Symbolic Finite Automata**](https://www.computer.org/csdl/proceedings-article/sp/2026/606500b036/2bojvQCauMo)<br>
   Jiasheng Jiang, **Mingwei Zheng**, Qingkai Shi, Xiangyu Zhang <br>
   *The IEEE Symposium on Security and Privacy (S&P 2026)*
