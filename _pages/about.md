@@ -25,57 +25,59 @@ Project: LLM Agent for Semantic Testing of Software Systems
 Project: LLM Agent for Refactoring Network Protocol Code with Verified Parsers
 
 ## Publication
+- [**PR²: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust**](https://arxiv.org/abs/2505.04852) <br>
+  Yifei Gao, Chengpeng Wang, Pengxiang Huang, Xuwei Liu, **Mingwei Zheng**, Xiangyu Zhang <br>
+  **ACL Findings 2026**
+  
 - **NESA: Relational Neuro-Symbolic Static Program Analysis**<br>
   Chengpeng Wang, Yifei Gao, Wuqi Zhang, Xuwei Liu, Jinyao Guo, **Mingwei Zheng**, Qingkai Shi, Xiangyu Zhang <br>
-  *The ACM International Conference on the Foundations of Software Engineering (FSE 2026)*
+  **FSE 2026**
 
 - [**SFA-Miner: Mining Path-Sensitive API Usage Patterns via Symbolic Finite Automata**](https://www.computer.org/csdl/proceedings-article/sp/2026/606500b036/2bojvQCauMo)<br>
   Jiasheng Jiang, **Mingwei Zheng**, Qingkai Shi, Xiangyu Zhang <br>
-  *The IEEE Symposium on Security and Privacy (S&P 2026)*
+  **S&P 2026**
   
 - [**RFCAudit: AI Agent for Auditing Protocol Implementations
   Against RFC Specificationss**](https://arxiv.org/abs/2506.00714)<br>
   **Mingwei Zheng**, Chengpeng Wang, Xuwei Liu, Jinyao Guo, Shiwei Feng, Xiangyu Zhang <br>
-  *The IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)*
+  **ASE 2025**
 
 - [**CORE: Benchmarking LLMs’ Code Reasoning Capabilities through Static Analysis Tasks**](https://www.arxiv.org/pdf/2507.05269)<br>
   Danning Xie\*, **Mingwei Zheng**\*, Xuwei Liu, Jiannan Wang, Chengpeng Wang, Lin Tan, Xiangyu Zhang <br>
-  *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025, Datasets and Benchmarks Track)* <br>
-  **\* Equal contribution**,      <span style="color:red;">**Spotlight** (56 out of 497 accepted papers) </span> <br>
+  **NeurIPS 2025, Datasets and Benchmarks Track,**
+  <span style="color:red;">**Spotlight** (56 out of 497 accepted papers) </span><br>
+  **\* Equal contribution** <br>
   
 - [**IntenTest: Stress Testing for Intent Integrity in API-Calling LLM Agents**](https://arxiv.org/abs/2506.07524) <br>
   Shiwei Feng, Xiangzhe Xu, Xuan Chen, Kaiyuan Zhang, Syed Yusuf Ahmed, Zian Su, **Mingwei Zheng**, Xiangyu Zhang <br>
-  *The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)*
+  **NeurIPS 2025**
   
 - [**Validating Network Protocol Parsers with Traceable RFC Document Interpretation**](https://conf.researchr.org/details/issta-2025/issta-2025-papers/77/Validating-Network-Protocol-Parsers-with-Traceable-RFC-Document-Interpretation) <br>
   **Mingwei Zheng**, Danning Xie, Qingkai Shi, Chengpeng Wang, Xiangyu Zhang <br>
-  *The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2025)*
+  **ISSTA 2025**
 
 - [**Large Language Models for Validating Network Protocol Parsers**](https://arxiv.org/pdf/2504.13515) <br>
   **Mingwei Zheng**, Danning Xie, Xiangyu Zhang <br>
-  *The Eleventh Workshop on Language-Theoretic Security at the IEEE CS Security & Privacy Workshops (LangSec 2025)*
+  **LangSec 2025**
 
 - [**ParDiff: Practical Static Differential Analysis of Network Protocol Parsers**](https://dl.acm.org/doi/abs/10.1145/3649854) <br>
   **Mingwei Zheng**, Qingkai Shi, Xuwei Liu, Xiangzhe Xu, Le Yu, Congyu Liu, Guannan Wei, Xiangyu Zhang  
-  *The ACM SIGPLAN Conference on Object Oriented Programming, Systems, Languages, and Applications (OOPSLA 2024)*  
+  **OOPSLA 2024**  
   🏆 <span style="color:red;">**ACM SIGPLAN Distinguished Paper Award** (7 out of 148 accepted papers) </span>
 
 - [**Lifting Network Protocol Implementation to Precise Format Specification with Security Applications**](https://dl.acm.org/doi/abs/10.1145/3576915.3616614) <br>
   Qingkai Shi, Junyang Shao, Yapeng Ye, **Mingwei Zheng**, Xiangyu Zhang  
-  *The ACM Conference on Computer and Communications Security (CCS 2023)*
+  **CCS 2023**
 
 - [**Why Do Developers Remove Lambda Expressions in Java?**](https://ieeexplore.ieee.org/document/9678600) <br>
   **Mingwei Zheng**, Jun Yang, Ming Wen, Hengcheng Zhu, Yepang Liu, Hai Jin  
-  *The IEEE/ACM International Conference on Automated Software Engineering (ASE 2021)*
+  **ASE 2021**
 
 ## Preprint
 - [**Identifying Adversary Tactics and Techniques in Malware Binaries with an LLM Agent**](https://arxiv.org/abs/2602.06325)<br>
   Zhou Xuan, Xiangzhe Xu, **Mingwei Zheng**, Louis Zheng-Hua Tan, Jinyao Guo, Tiantai Zhang, Le Yu, Chengpeng Wang, Xiangyu Zhang
   *arXiv preprint, arXiv:2602.06325 (2026)*
-  
-- [**PR²: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust**](https://arxiv.org/abs/2505.04852) <br>
-  Yifei Gao, Chengpeng Wang, Pengxiang Huang, Xuwei Liu, **Mingwei Zheng**, Xiangyu Zhang <br>
-  *arXiv preprint, arXiv:2505.04852 (2025)*
+
 
 ## Honors and Awards
 * WISP Graduate Travel Grant, Fall 2025
