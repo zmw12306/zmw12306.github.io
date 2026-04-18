@@ -29,7 +29,7 @@ Project: LLM Agent for Refactoring Network Protocol Code with Verified Parsers
   Yifei Gao, Chengpeng Wang, Pengxiang Huang, Xuwei Liu, **Mingwei Zheng**, Xiangyu Zhang <br>
   **ACL Findings 2026**
   
-- **NESA: Relational Neuro-Symbolic Static Program Analysis**<br>
+- [**NESA: Relational Neuro-Symbolic Static Program Analysis**](https://arxiv.org/pdf/2412.14399) <br>
   Chengpeng Wang, Yifei Gao, Wuqi Zhang, Xuwei Liu, Jinyao Guo, **Mingwei Zheng**, Qingkai Shi, Xiangyu Zhang <br>
   **FSE 2026**
 
@@ -62,7 +62,7 @@ Project: LLM Agent for Refactoring Network Protocol Code with Verified Parsers
 - [**ParDiff: Practical Static Differential Analysis of Network Protocol Parsers**](https://dl.acm.org/doi/abs/10.1145/3649854) <br>
   **Mingwei Zheng**, Qingkai Shi, Xuwei Liu, Xiangzhe Xu, Le Yu, Congyu Liu, Guannan Wei, Xiangyu Zhang  
   **OOPSLA 2024**  
-  🏆 <span style="color:red;">**ACM SIGPLAN Distinguished Paper Award** (7 out of 148 accepted papers) </span>
+  🏆 <span style="color:red;">**ACM SIGPLAN Distinguished Paper Award (7 out of 148 accepted papers)** </span>
 
 - [**Lifting Network Protocol Implementation to Precise Format Specification with Security Applications**](https://dl.acm.org/doi/abs/10.1145/3576915.3616614) <br>
   Qingkai Shi, Junyang Shao, Yapeng Ye, **Mingwei Zheng**, Xiangyu Zhang  
@@ -79,6 +79,7 @@ Project: LLM Agent for Refactoring Network Protocol Code with Verified Parsers
 
 
 ## Honors and Awards
+* Graduate Teaching Award, Spring 2026
 * WISP Graduate Travel Grant, Fall 2025
 * Spotlight Paper, NeurIPS 2025 (Datasets and Benchmarks Track)  
 * ACM SIGPLAN Distinguished Paper Award, OOPSLA 2024  
