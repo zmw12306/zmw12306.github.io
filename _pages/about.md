@@ -25,6 +25,9 @@ Project: LLM Agent for Semantic Testing of Software Systems
 Project: LLM Agent for Refactoring Network Protocol Code with Verified Parsers
 
 ## Publication
+
+<div style="font-size: 0.9em; line-height: 1.5;">
+
 - [**Findings of ACL 2026**] [**PR²: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust**](https://arxiv.org/abs/2505.04852) <br>
   Yifei Gao, Chengpeng Wang, Pengxiang Huang, Xuwei Liu, **Mingwei Zheng**, Xiangyu Zhang <br>
   
@@ -65,12 +68,15 @@ Project: LLM Agent for Refactoring Network Protocol Code with Verified Parsers
 
 - [**ASE 2021**] [**Why Do Developers Remove Lambda Expressions in Java?**](https://ieeexplore.ieee.org/document/9678600) <br>
   **Mingwei Zheng**, Jun Yang, Ming Wen, Hengcheng Zhu, Yepang Liu, Hai Jin  
-  
+</div>
 
 ## Preprint
+
+<div style="font-size: 0.9em; line-height: 1.5;">
+  
 - [**arXiv:2602.06325**] [**Identifying Adversary Tactics and Techniques in Malware Binaries with an LLM Agent**](https://arxiv.org/abs/2602.06325)<br>
   Zhou Xuan, Xiangzhe Xu, **Mingwei Zheng**, Louis Zheng-Hua Tan, Jinyao Guo, Tiantai Zhang, Le Yu, Chengpeng Wang, Xiangyu Zhang
-  
+</div>  
 
 
 ## Honors and Awards
