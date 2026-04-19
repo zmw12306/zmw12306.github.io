@@ -25,57 +25,52 @@ Project: LLM Agent for Semantic Testing of Software Systems
 Project: LLM Agent for Refactoring Network Protocol Code with Verified Parsers
 
 ## Publication
-- [**PR²: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust**](https://arxiv.org/abs/2505.04852) <br>
+- [**Findings of ACL 2026**] [**PR²: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust**](https://arxiv.org/abs/2505.04852) <br>
   Yifei Gao, Chengpeng Wang, Pengxiang Huang, Xuwei Liu, **Mingwei Zheng**, Xiangyu Zhang <br>
-  **ACL Findings 2026**
   
-- [**NESA: Relational Neuro-Symbolic Static Program Analysis**](https://arxiv.org/pdf/2412.14399) <br>
+- [**FSE 2026**] [**NESA: Relational Neuro-Symbolic Static Program Analysis**](https://arxiv.org/pdf/2412.14399) <br>
   Chengpeng Wang, Yifei Gao, Wuqi Zhang, Xuwei Liu, Jinyao Guo, **Mingwei Zheng**, Qingkai Shi, Xiangyu Zhang <br>
-  **FSE 2026**
-
-- [**SFA-Miner: Mining Path-Sensitive API Usage Patterns via Symbolic Finite Automata**](https://www.computer.org/csdl/proceedings-article/sp/2026/606500b036/2bojvQCauMo)<br>
-  Jiasheng Jiang, **Mingwei Zheng**, Qingkai Shi, Xiangyu Zhang <br>
-  **S&P 2026**
   
-- [**RFCAudit: AI Agent for Auditing Protocol Implementations
-  Against RFC Specificationss**](https://arxiv.org/abs/2506.00714)<br>
+- [**S&P 2026**] [**SFA-Miner: Mining Path-Sensitive API Usage Patterns via Symbolic Finite Automata**](https://www.computer.org/csdl/proceedings-article/sp/2026/606500b036/2bojvQCauMo) <br>
+  Jiasheng Jiang, **Mingwei Zheng**, Qingkai Shi, Xiangyu Zhang <br>
+  
+- [**ASE 2025**] [**RFCAudit: AI Agent for Auditing Protocol Implementations
+  Against RFC Specificationss**](https://arxiv.org/abs/2506.00714) <br>
   **Mingwei Zheng**, Chengpeng Wang, Xuwei Liu, Jinyao Guo, Shiwei Feng, Xiangyu Zhang <br>
-  **ASE 2025**
 
-- [**CORE: Benchmarking LLMs’ Code Reasoning Capabilities through Static Analysis Tasks**](https://www.arxiv.org/pdf/2507.05269)<br>
+- [**NeurIPS 2025, Datasets and Benchmarks**] [**CORE: Benchmarking LLMs’ Code Reasoning Capabilities through Static Analysis Tasks**](https://www.arxiv.org/pdf/2507.05269) <br>
   Danning Xie\*, **Mingwei Zheng**\*, Xuwei Liu, Jiannan Wang, Chengpeng Wang, Lin Tan, Xiangyu Zhang <br>
-  **NeurIPS 2025, Datasets and Benchmarks Track** <br>
   **\* Equal contribution, <span style="color:red;"> Spotlight (56 out of 497 accepted papers) </span>** <br>
   
-- [**IntenTest: Stress Testing for Intent Integrity in API-Calling LLM Agents**](https://arxiv.org/abs/2506.07524) <br>
+- [**NeurIPS 2025**] [**IntenTest: Stress Testing for Intent Integrity in API-Calling LLM Agents**](https://arxiv.org/abs/2506.07524) <br>
   Shiwei Feng, Xiangzhe Xu, Xuan Chen, Kaiyuan Zhang, Syed Yusuf Ahmed, Zian Su, **Mingwei Zheng**, Xiangyu Zhang <br>
-  **NeurIPS 2025**
   
-- [**Validating Network Protocol Parsers with Traceable RFC Document Interpretation**](https://conf.researchr.org/details/issta-2025/issta-2025-papers/77/Validating-Network-Protocol-Parsers-with-Traceable-RFC-Document-Interpretation) <br>
+  
+- [**ISSTA 2025**] [**Validating Network Protocol Parsers with Traceable RFC Document Interpretation**](https://conf.researchr.org/details/issta-2025/issta-2025-papers/77/Validating-Network-Protocol-Parsers-with-Traceable-RFC-Document-Interpretation) <br>
   **Mingwei Zheng**, Danning Xie, Qingkai Shi, Chengpeng Wang, Xiangyu Zhang <br>
-  **ISSTA 2025**
+  
 
-- [**Large Language Models for Validating Network Protocol Parsers**](https://arxiv.org/pdf/2504.13515) <br>
+- [**LangSec 2025**] [**Large Language Models for Validating Network Protocol Parsers**](https://arxiv.org/pdf/2504.13515) <br>
   **Mingwei Zheng**, Danning Xie, Xiangyu Zhang <br>
-  **LangSec 2025**
+  
 
-- [**ParDiff: Practical Static Differential Analysis of Network Protocol Parsers**](https://dl.acm.org/doi/abs/10.1145/3649854) <br>
+- [**OOPSLA 2024**] [**ParDiff: Practical Static Differential Analysis of Network Protocol Parsers**](https://dl.acm.org/doi/abs/10.1145/3649854) <br>
   **Mingwei Zheng**, Qingkai Shi, Xuwei Liu, Xiangzhe Xu, Le Yu, Congyu Liu, Guannan Wei, Xiangyu Zhang  
-  **OOPSLA 2024**  
+   
   🏆 <span style="color:red;">**ACM SIGPLAN Distinguished Paper Award (7 out of 148 accepted papers)** </span>
 
-- [**Lifting Network Protocol Implementation to Precise Format Specification with Security Applications**](https://dl.acm.org/doi/abs/10.1145/3576915.3616614) <br>
+- [**CCS 2023**] [**Lifting Network Protocol Implementation to Precise Format Specification with Security Applications**](https://dl.acm.org/doi/abs/10.1145/3576915.3616614) <br>
   Qingkai Shi, Junyang Shao, Yapeng Ye, **Mingwei Zheng**, Xiangyu Zhang  
-  **CCS 2023**
+  
 
-- [**Why Do Developers Remove Lambda Expressions in Java?**](https://ieeexplore.ieee.org/document/9678600) <br>
+- [**ASE 2021**] [**Why Do Developers Remove Lambda Expressions in Java?**](https://ieeexplore.ieee.org/document/9678600) <br>
   **Mingwei Zheng**, Jun Yang, Ming Wen, Hengcheng Zhu, Yepang Liu, Hai Jin  
-  **ASE 2021**
+  
 
 ## Preprint
-- [**Identifying Adversary Tactics and Techniques in Malware Binaries with an LLM Agent**](https://arxiv.org/abs/2602.06325)<br>
+- [**arXiv:2602.06325**] [**Identifying Adversary Tactics and Techniques in Malware Binaries with an LLM Agent**](https://arxiv.org/abs/2602.06325)<br>
   Zhou Xuan, Xiangzhe Xu, **Mingwei Zheng**, Louis Zheng-Hua Tan, Jinyao Guo, Tiantai Zhang, Le Yu, Chengpeng Wang, Xiangyu Zhang
-  *arXiv preprint, arXiv:2602.06325 (2026)*
+  
 
 
 ## Honors and Awards
