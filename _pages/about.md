@@ -12,12 +12,13 @@ I will join AWS Kiro Science as an Applied Scientist in June 2026. My current re
 Previously, my research focused on improving software reliability and efficiency through LLM agents and program analysis techniques for software engineering tasks such as code generation, software testing, and program repair, with the broader goal of improving software correctness, robustness, and trustworthiness.
 
 ## Education
-- **Purdue University**, Ph.D. in Computer Science  
-  Advisor: Prof. Xiangyu Zhang  
+- **Purdue University** <br> 
+  Ph.D. in Computer Science, Advisor: Prof. Xiangyu Zhang  
   *West Lafayette, IN · Aug. 2021 – May 2026*  
   Thesis: Semantic Bug Detection for Network Protocol Implementations
 
-- **Huazhong University of Science and Technology**, B.Eng. in Computer Science and Technology  
+- **Huazhong University of Science and Technology** <br>
+  B.Eng. in Computer Science and Technology <br> 
   *Wuhan, China · Aug. 2016 – Jun. 2020*
 
 ## Experience
