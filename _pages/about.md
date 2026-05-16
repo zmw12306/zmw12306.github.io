@@ -7,9 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the [Department of Computer Science](https://www.cs.purdue.edu) at [Purdue University](https://www.purdue.edu), advised by [Prof. Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/) since 2021. Before that, I received my Bachelor's degree in Computer Science and Technology from Huazhong University of Science and Technology in 2020.
+I will join AWS Kiro Science as an Applied Scientist in June 2026. My current research focuses on building more reliable and effective **LLM coding agents**.
 
-My research focuses on **improving software reliability and efficiency**. I build LLM agents or program analysis tools to automate software development tasks such as code generation, software testing, and program repair, with the broader goal of improving software correctness, robustness, and trustworthiness. Currently, I focus on building more reliable and effective **LLM coding agents**.
+Previously, my research focused on improving software reliability and efficiency through LLM agents and program analysis techniques for software engineering tasks such as code generation, software testing, and program repair, with the broader goal of improving software correctness, robustness, and trustworthiness.
+
+## Education
+- **Purdue University**, Ph.D. in Computer Science  
+  Advisor: Prof. Xiangyu Zhang  
+  *West Lafayette, IN · Aug. 2021 – May 2026*  
+  Thesis: *Semantic Bug Detection for Network Protocol Implementations*
+
+- **Huazhong University of Science and Technology**, B.Eng. in Computer Science and Technology  
+  *Wuhan, China · Aug. 2016 – Jun. 2020*
 
 ## Experience
 **Applied Science Intern** @ [AWS, Agentic AI, Kiro Science](https://aws.amazon.com/ai/agentic-ai) <br>
