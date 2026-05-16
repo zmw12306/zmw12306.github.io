@@ -48,7 +48,7 @@ Chengpeng Wang, Yifei Gao, Wuqi Zhang, Xuwei Liu, Jinyao Guo, **Mingwei Zheng**,
 Jiasheng Jiang, **Mingwei Zheng**, Qingkai Shi, Xiangyu Zhang <br>
 **S&P 2026**
   
-[**RFCAudit: AI Agent for Auditing Protocol Implementations Against RFC Specificationss**](https://arxiv.org/abs/2506.00714) <br>
+[**RFCAudit: AI Agent for Auditing Protocol Implementations Against RFC Specifications**](https://ieeexplore.ieee.org/abstract/document/11334718) <br>
 **Mingwei Zheng**, Chengpeng Wang, Xuwei Liu, Jinyao Guo, Shiwei Feng, Xiangyu Zhang <br>
 **ASE 2025**
 
