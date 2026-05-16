@@ -9,7 +9,7 @@ redirect_from:
 
 I will join **AWS Kiro Science** as an **Applied Scientist** in June 2026, where I will focus on building more reliable and effective **LLM coding agents**.
 
-I obtained my Ph.D. degree from the [Department of Computer Science](https://www.cs.purdue.edu/) at Purdue University in May 2026, advised by Samuel Conte Professor [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/). During my Ph.D., I worked on improving software reliability and efficiency by developing LLM agents and program analysis techniques for software engineering tasks such as code generation, software testing, and program repair, with the broader goal of building more correct, robust, and trustworthy software systems.
+I obtained my Ph.D. degree from the [Department of Computer Science](https://www.cs.purdue.edu/) at Purdue University in May 2026, advised by Samuel Conte Professor [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/). During my Ph.D., I worked on improving software reliability and efficiency by developing LLM agents and program analysis techniques for software engineering tasks such as code generation, software testing, and program repair, with the broader goal of building more robust, and trustworthy software systems.
 
 ## Education
 **Purdue University** <br> 
