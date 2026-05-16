@@ -15,7 +15,7 @@ Previously, my research focused on improving software reliability and efficiency
 - **Purdue University**, Ph.D. in Computer Science  
   Advisor: Prof. Xiangyu Zhang  
   *West Lafayette, IN · Aug. 2021 – May 2026*  
-  Thesis: *Semantic Bug Detection for Network Protocol Implementations*
+  Thesis: Semantic Bug Detection for Network Protocol Implementations
 
 - **Huazhong University of Science and Technology**, B.Eng. in Computer Science and Technology  
   *Wuhan, China · Aug. 2016 – Jun. 2020*
