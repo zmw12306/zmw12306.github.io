@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I will join AWS Kiro Science as an Applied Scientist in June 2026. My current research focuses on building more reliable and effective **LLM coding agents**.
+I will join **AWS Kiro Science** as an **Applied Scientist** in June 2026, where I will focus on building more reliable and effective **LLM coding agents**.
 
-Previously, my research focused on improving software reliability and efficiency through LLM agents and program analysis techniques for software engineering tasks such as code generation, software testing, and program repair, with the broader goal of improving software correctness, robustness, and trustworthiness.
+I obtained my Ph.D. degree from the [Department of Computer Science](https://www.cs.purdue.edu/) at Purdue University in May 2026, advised by Samuel Conte Professor [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/). During my Ph.D., I worked on improving software reliability and efficiency by developing LLM agents and program analysis techniques for software engineering tasks such as code generation, software testing, and program repair, with the broader goal of building more correct, robust, and trustworthy software systems.
 
 ## Education
 **Purdue University** <br> 
-Ph.D. in Computer Science, Advisor: Prof. Xiangyu Zhang  
+Ph.D. in Computer Science, Advisor: Prof. [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/)  
 *West Lafayette, IN · Aug. 2021 – May 2026*  
-Thesis: Semantic Bug Detection for Network Protocol Implementations
+Thesis: [Semantic Bug Detection for Network Protocol Implementations](https://hammer.purdue.edu/articles/thesis/Semantic_Bug_Detection_for_Network_Protocol_Implementations/32014092)
 
 **Huazhong University of Science and Technology** <br>
 B.Eng. in Computer Science and Technology <br> 
@@ -23,15 +23,15 @@ B.Eng. in Computer Science and Technology <br>
 
 ## Experience
 **Applied Science Intern** @ [AWS, Agentic AI, Kiro Science](https://aws.amazon.com/ai/agentic-ai) <br>
-*Santa Clara, CA* — **Aug. 2025 – Nov. 2025**  
+*Santa Clara, CA · Aug. 2025 – Nov. 2025*  
 Project: Context Optimization for LLM Coding Agent
 
 **Research Intern** @ [Microsoft Research, RiSE Group](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/)  
-*Redmond, WA* — **May 2025 – Aug. 2025**  
+*Redmond, WA · May 2025 – Aug. 2025*  
 Project: LLM Agent for Semantic Testing of Software Systems
 
 **Research Intern** @ [Microsoft Research, RiSE Group](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/)  
-*Redmond, WA* — **May 2024 – Dec. 2024**  
+*Redmond, WA · May 2024 – Dec. 2024*    
 Project: LLM Agent for Refactoring Network Protocol Code with Verified Parsers
 
 ## Publication
