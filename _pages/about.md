@@ -37,7 +37,7 @@ B.Eng. in Computer Science and Technology <br>
 ## Publication
 
 **Feedback-Driven Black-Box Safety Alignment Testing of Large Language Models via Reinforcement Learning** <br>
-Xuan Chen, Yuzhou Nie, Lu Yan, **Mingwei Zheng**, Yunshu Mao, Wenbo Guo, Xiangyu Zhang
+Xuan Chen, Yuzhou Nie, Lu Yan, **Mingwei Zheng**, Yunshu Mao, Wenbo Guo, Xiangyu Zhang <br>
 **TMLR 2026**
 
 [**PR²: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust**](https://arxiv.org/abs/2505.04852) <br>
