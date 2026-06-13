@@ -118,6 +118,7 @@ Zhou Xuan, Xiangzhe Xu, **Mingwei Zheng**, Louis Zheng-Hua Tan, Jinyao Guo, Tian
   - [EXPRESS 2025](https://conf.researchr.org/home/issta-2025/express-2025) (ISSTA Workshop)  
 - Reviewer:
   - Empirical Software Engineering (2026)
+  - Journal of Information Security and Applications (2026)
   - IEEE Transactions on Network and Service Management (2026)
   - IEEE Internet of Things Journal (2023, 2024)  
   - High-Confidence Computing (2023, 2024)  
