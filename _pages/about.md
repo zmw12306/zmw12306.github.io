@@ -44,7 +44,7 @@ Xuan Chen, Yuzhou Nie, Lu Yan, **Mingwei Zheng**, Yunshu Mao, Wenbo Guo, Xiangyu
 Yifei Gao, Chengpeng Wang, Pengxiang Huang, Xuwei Liu, **Mingwei Zheng**, Xiangyu Zhang <br>
 **Findings of ACL 2026**
   
-[**NESA: Relational Neuro-Symbolic Static Program Analysis**](https://dl.acm.org/doi/10.1145/3808161) <br>
+[**NESA: Relational Neuro-Symbolic Static Program Analysis**](https://dl.acm.org/doi/epdf/10.1145/3808161) <br>
 Chengpeng Wang, Yifei Gao, Wuqi Zhang, Xuwei Liu, Jinyao Guo, **Mingwei Zheng**, Qingkai Shi, Xiangyu Zhang <br>
 **FSE 2026**
   
@@ -56,7 +56,7 @@ Jiasheng Jiang, **Mingwei Zheng**, Qingkai Shi, Xiangyu Zhang <br>
 **Mingwei Zheng**, Chengpeng Wang, Xuwei Liu, Jinyao Guo, Shiwei Feng, Xiangyu Zhang <br>
 **ASE 2025**
 
-[**CORE: Benchmarking LLMs’ Code Reasoning Capabilities through Static Analysis Tasks**]([https://www.arxiv.org/pdf/2507.05269](https://proceedings.neurips.cc/paper_files/paper/2025/file/896cbab7d54e3fb158c4980db83290c7-Paper-Datasets_and_Benchmarks_Track.pdf)) <br>
+[**CORE: Benchmarking LLMs’ Code Reasoning Capabilities through Static Analysis Tasks**](https://proceedings.neurips.cc/paper_files/paper/2025/file/896cbab7d54e3fb158c4980db83290c7-Paper-Datasets_and_Benchmarks_Track.pdf) <br>
 Danning Xie\*, **Mingwei Zheng**\*, Xuwei Liu, Jiannan Wang, Chengpeng Wang, Lin Tan, Xiangyu Zhang <br>
 **\* Equal contribution, <span style="color:red;"> Spotlight (56 out of 497 accepted papers) </span>** <br>
 **NeurIPS 2025, Datasets and Benchmarks Track**
