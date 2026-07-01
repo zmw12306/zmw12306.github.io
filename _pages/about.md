@@ -40,11 +40,11 @@ B.Eng. in Computer Science and Technology <br>
 Xuan Chen, Yuzhou Nie, Lu Yan, **Mingwei Zheng**, Yunshu Mao, Wenbo Guo, Xiangyu Zhang <br>
 **TMLR 2026**
 
-[**PR²: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust**](https://arxiv.org/abs/2505.04852) <br>
+[**PR²: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust**](https://aclanthology.org/2026.findings-acl.1763.pdf) <br>
 Yifei Gao, Chengpeng Wang, Pengxiang Huang, Xuwei Liu, **Mingwei Zheng**, Xiangyu Zhang <br>
 **Findings of ACL 2026**
   
-[**NESA: Relational Neuro-Symbolic Static Program Analysis**](https://arxiv.org/pdf/2412.14399) <br>
+[**NESA: Relational Neuro-Symbolic Static Program Analysis**](https://dl.acm.org/doi/10.1145/3808161) <br>
 Chengpeng Wang, Yifei Gao, Wuqi Zhang, Xuwei Liu, Jinyao Guo, **Mingwei Zheng**, Qingkai Shi, Xiangyu Zhang <br>
 **FSE 2026**
   
@@ -56,12 +56,12 @@ Jiasheng Jiang, **Mingwei Zheng**, Qingkai Shi, Xiangyu Zhang <br>
 **Mingwei Zheng**, Chengpeng Wang, Xuwei Liu, Jinyao Guo, Shiwei Feng, Xiangyu Zhang <br>
 **ASE 2025**
 
-[**CORE: Benchmarking LLMs’ Code Reasoning Capabilities through Static Analysis Tasks**](https://www.arxiv.org/pdf/2507.05269) <br>
+[**CORE: Benchmarking LLMs’ Code Reasoning Capabilities through Static Analysis Tasks**]([https://www.arxiv.org/pdf/2507.05269](https://proceedings.neurips.cc/paper_files/paper/2025/file/896cbab7d54e3fb158c4980db83290c7-Paper-Datasets_and_Benchmarks_Track.pdf)) <br>
 Danning Xie\*, **Mingwei Zheng**\*, Xuwei Liu, Jiannan Wang, Chengpeng Wang, Lin Tan, Xiangyu Zhang <br>
 **\* Equal contribution, <span style="color:red;"> Spotlight (56 out of 497 accepted papers) </span>** <br>
 **NeurIPS 2025, Datasets and Benchmarks Track**
   
-[**IntenTest: Stress Testing for Intent Integrity in API-Calling LLM Agents**](https://arxiv.org/abs/2506.07524) <br>
+[**IntenTest: Stress Testing for Intent Integrity in API-Calling LLM Agents**](https://proceedings.neurips.cc/paper_files/paper/2025/hash/f13d67d8b994594a12d53e5d21de2bef-Abstract-Conference.html) <br>
 Shiwei Feng, Xiangzhe Xu, Xuan Chen, Kaiyuan Zhang, Syed Yusuf Ahmed, Zian Su, **Mingwei Zheng**, Xiangyu Zhang <br>
 **NeurIPS 2025**
   
@@ -69,7 +69,7 @@ Shiwei Feng, Xiangzhe Xu, Xuan Chen, Kaiyuan Zhang, Syed Yusuf Ahmed, Zian Su, *
 **Mingwei Zheng**, Danning Xie, Qingkai Shi, Chengpeng Wang, Xiangyu Zhang <br>
 **ISSTA 2025**
 
-[**Large Language Models for Validating Network Protocol Parsers**](https://arxiv.org/pdf/2504.13515) <br>
+[**Large Language Models for Validating Network Protocol Parsers**](https://ieeexplore.ieee.org/abstract/document/11050030) <br>
 **Mingwei Zheng**, Danning Xie, Xiangyu Zhang <br>
 **LangSec 2025**
 
