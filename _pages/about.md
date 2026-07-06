@@ -44,7 +44,7 @@ Xuan Chen, Yuzhou Nie, Lu Yan, **Mingwei Zheng**, Yunshu Mao, Wenbo Guo, Xiangyu
 Yifei Gao, Chengpeng Wang, Pengxiang Huang, Xuwei Liu, **Mingwei Zheng**, Xiangyu Zhang <br>
 **Findings of ACL 2026**
   
-[**NESA: Relational Neuro-Symbolic Static Program Analysis**](https://dl.acm.org/doi/epdf/10.1145/3808161) <br>
+[**NESA: Relational Neuro-Symbolic Static Program Analysis**](https://arxiv.org/abs/2412.14399) <br>
 Chengpeng Wang, Yifei Gao, Wuqi Zhang, Xuwei Liu, Jinyao Guo, **Mingwei Zheng**, Qingkai Shi, Xiangyu Zhang <br>
 **FSE 2026**
   
