@@ -7,11 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I will join **AWS Kiro Science** as an **Applied Scientist** in June 2026, where I will focus on building more reliable and effective **LLM coding agents**.
+I am an **Applied Scientist** in **AWS Kiro Science Team** starting from July 2026, where I focus on improving [Kiro](https://kiro.dev) Coding Agent.
 
-I obtained my Ph.D. degree from the [Department of Computer Science](https://www.cs.purdue.edu/) at Purdue University in May 2026, advised by Samuel Conte Professor [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/). I worked on improving software reliability and efficiency by developing LLM agents and program analysis techniques for software engineering tasks such as code generation, software testing, and program repair, with the broader goal of building more robust and trustworthy software systems.
+I obtained my Ph.D. degree from the [Department of Computer Science](https://www.cs.purdue.edu/) at Purdue University in May 2026, advised by Samuel Conte Professor [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/). During my PhD, I worked on improving software reliability and efficiency by developing LLM agents and program analysis techniques.
 
 ## Working Experience
+**Applied Scientist** @ [AWS, Agentic AI, Kiro Science](https://aws.amazon.com/ai/agentic-ai) <br>
+*Santa Clara, CA · July. 2026 – now*
+
 **Applied Science Intern** @ [AWS, Agentic AI, Kiro Science](https://aws.amazon.com/ai/agentic-ai) <br>
 *Santa Clara, CA · Aug. 2025 – Nov. 2025*  
 Project: Context Optimization for LLM Coding Agent
