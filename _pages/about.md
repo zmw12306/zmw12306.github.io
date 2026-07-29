@@ -91,6 +91,11 @@ Qingkai Shi, Junyang Shao, Yapeng Ye, **Mingwei Zheng**, Xiangyu Zhang
 
 ## Preprint
 
+[**CORVUS: Context Optimization and Reduction Via Underlying Synchronization for LLM Coding Agents**](https://arxiv.org/pdf/2607.22711)<br>
+Mingwei Zheng\*, David O’Brien\*, Siwei Cui, Pardis Pashakhanloo, Rajdeep Mukherjee, Myeongsoo Kim, Sachit Kuhar <br>
+\* Equal contribution <br>
+**arXiv:2607.22711, 2026**
+
 [**Identifying Adversary Tactics and Techniques in Malware Binaries with an LLM Agent**](https://arxiv.org/abs/2602.06325)<br>
 Zhou Xuan, Xiangzhe Xu, **Mingwei Zheng**, Louis Zheng-Hua Tan, Jinyao Guo, Tiantai Zhang, Le Yu, Chengpeng Wang, Xiangyu Zhang <br>
 **arXiv:2602.06325, 2026**
