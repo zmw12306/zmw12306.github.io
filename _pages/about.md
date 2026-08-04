@@ -39,6 +39,10 @@ B.Eng. in Computer Science and Technology <br>
 
 ## Publication
 
+**Neurosymbolic Code Auditing** <br>
+Chengpeng Wang, Zhuo Zhang, Xiangzhe Xu, **Mingwei Zheng**, Guannan Wei, and Xiangyu Zhang <br>
+**Foundations and Trends in Programming Languages (FTPL), 2026**
+
 **Feedback-Driven Black-Box Safety Alignment Testing of Large Language Models via Reinforcement Learning** <br>
 Xuan Chen, Yuzhou Nie, Lu Yan, **Mingwei Zheng**, Yunshu Mao, Wenbo Guo, Xiangyu Zhang <br>
 **TMLR 2026**
