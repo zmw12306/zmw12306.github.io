@@ -39,19 +39,19 @@ B.Eng. in Computer Science and Technology <br>
 
 ## Publication
 
-**Neurosymbolic Code Auditing** <br>
+[**Neurosymbolic Code Auditing**](https://chengpeng-wang.github.io/publications/neurosym_auditing.pdf) <br>
 Chengpeng Wang, Zhuo Zhang, Xiangzhe Xu, **Mingwei Zheng**, Guannan Wei, and Xiangyu Zhang <br>
 **Foundations and Trends in Programming Languages (FTPL), 2026**
 
-**Feedback-Driven Black-Box Safety Alignment Testing of Large Language Models via Reinforcement Learning** <br>
+[**Feedback-Driven Black-Box Safety Alignment Testing of Large Language Models via Reinforcement Learning**](https://openreview.net/pdf?id=GWslY31w2b) <br>
 Xuan Chen, Yuzhou Nie, Lu Yan, **Mingwei Zheng**, Yunshu Mao, Wenbo Guo, Xiangyu Zhang <br>
 **TMLR 2026**
 
 [**PR²: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust**](https://aclanthology.org/2026.findings-acl.1763.pdf) <br>
 Yifei Gao, Chengpeng Wang, Pengxiang Huang, Xuwei Liu, **Mingwei Zheng**, Xiangyu Zhang <br>
-**Findings of ACL 2026**
+**ACL(Findings) 2026**
   
-[**NESA: Relational Neuro-Symbolic Static Program Analysis**](https://arxiv.org/abs/2412.14399) <br>
+[**NESA: Relational Neuro-Symbolic Static Program Analysis**](https://dl.acm.org/doi/abs/10.1145/3808161) <br>
 Chengpeng Wang, Yifei Gao, Wuqi Zhang, Xuwei Liu, Jinyao Guo, **Mingwei Zheng**, Qingkai Shi, Xiangyu Zhang <br>
 **FSE 2026**
   
