@@ -39,6 +39,14 @@ B.Eng. in Computer Science and Technology <br>
 
 ## Publication
 
+[**CORVUS: Context Optimization and Reduction Via Underlying Synchronization for LLM Coding Agents**](https://arxiv.org/pdf/2607.22711)<br>
+**Mingwei Zheng\***, David O’Brien\*, Siwei Cui, Pardis Pashakhanloo, Rajdeep Mukherjee, Myeongsoo Kim, Sachit Kuhar <br>
+**\*Equal contribution, NeurIPS 2026**
+
+**Benchmarking Explainable Vulnerability Detection with Calling Contexts** <br>
+Jinyao Guo, Yaoyang Ye, Zhihao Guo, **Mingwei Zheng**, Tiantai Zhang, Xuwei Liu, Xiaolong Jin, Congyu Liu, Xiangzhe Xu, Zian Su, Ziyun Song, Zhou Xuan, Xiao Cheng, Chengpeng Wang, and Xiangyu Zhang <br>
+**Findings of EMNLP, 2026**
+
 [**Neurosymbolic Code Auditing**](https://chengpeng-wang.github.io/publications/neurosym_auditing.pdf) <br>
 Chengpeng Wang, Zhuo Zhang, Xiangzhe Xu, **Mingwei Zheng**, Guannan Wei, and Xiangyu Zhang <br>
 **Foundations and Trends in Programming Languages (FTPL), 2026**
@@ -49,7 +57,7 @@ Xuan Chen, Yuzhou Nie, Lu Yan, **Mingwei Zheng**, Yunshu Mao, Wenbo Guo, Xiangyu
 
 [**PR²: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust**](https://aclanthology.org/2026.findings-acl.1763.pdf) <br>
 Yifei Gao, Chengpeng Wang, Pengxiang Huang, Xuwei Liu, **Mingwei Zheng**, Xiangyu Zhang <br>
-**ACL(Findings) 2026**
+**Findings of ACL, 2026**
   
 [**NESA: Relational Neuro-Symbolic Static Program Analysis**](https://dl.acm.org/doi/abs/10.1145/3808161) <br>
 Chengpeng Wang, Yifei Gao, Wuqi Zhang, Xuwei Liu, Jinyao Guo, **Mingwei Zheng**, Qingkai Shi, Xiangyu Zhang <br>
@@ -95,11 +103,6 @@ Qingkai Shi, Junyang Shao, Yapeng Ye, **Mingwei Zheng**, Xiangyu Zhang
 
 ## Preprint
 
-[**CORVUS: Context Optimization and Reduction Via Underlying Synchronization for LLM Coding Agents**](https://arxiv.org/pdf/2607.22711)<br>
-**Mingwei Zheng\***, David O’Brien\*, Siwei Cui, Pardis Pashakhanloo, Rajdeep Mukherjee, Myeongsoo Kim, Sachit Kuhar <br>
-**\* Equal contribution** <br>
-**arXiv:2607.22711, 2026**
-
 [**Identifying Adversary Tactics and Techniques in Malware Binaries with an LLM Agent**](https://arxiv.org/abs/2602.06325)<br>
 Zhou Xuan, Xiangzhe Xu, **Mingwei Zheng**, Louis Zheng-Hua Tan, Jinyao Guo, Tiantai Zhang, Le Yu, Chengpeng Wang, Xiangyu Zhang <br>
 **arXiv:2602.06325, 2026**
@@ -124,6 +127,7 @@ Zhou Xuan, Xiangzhe Xu, **Mingwei Zheng**, Louis Zheng-Hua Tan, Jinyao Guo, Tian
   
 ## Service
 - Program Committee:
+  - [ICSE 2027 SEIP Track](https://conf.researchr.org/track/icse-2027/icse-2027-seip)
   - [AIware 2026 Benchmark & Dataset Track](https://2026.aiwareconf.org/track/aiware-2026-benchmark---dataset-track)
   - [FSE 2026 Industry Track](https://conf.researchr.org/track/fse-2026/fse-2026-industry-papers)
   - [AAAI 2026 Workshop on Next-Gen Code Development with Collaborative AI Agents](https://sites.google.com/view/next-gen-code-agents-aaai26) 
