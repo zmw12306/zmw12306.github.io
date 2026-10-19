@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an **Applied Scientist** in **AWS Kiro Science Team**, where I have been working since July 2026 to improve the capabilities of the [Kiro](https://kiro.dev) Coding Agent.
+I am an **Applied Scientist** in **AWS Kiro Science Team**, where I have been working since July 2026 to improve [Kiro](https://kiro.dev) Coding Agent.
 
 I obtained my Ph.D. degree from the [Department of Computer Science](https://www.cs.purdue.edu/) at Purdue University in May 2026, advised by Samuel Conte Professor [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/). My doctoral research focused on improving software reliability and efficiency through the development of LLM-based agents and program analysis techniques.
 
@@ -133,6 +133,7 @@ Zhou Xuan, Xiangzhe Xu, **Mingwei Zheng**, Louis Zheng-Hua Tan, Jinyao Guo, Tian
   - [AAAI 2026 Workshop on Next-Gen Code Development with Collaborative AI Agents](https://sites.google.com/view/next-gen-code-agents-aaai26) 
   - [EXPRESS 2025](https://conf.researchr.org/home/issta-2025/express-2025) (ISSTA Workshop)  
 - Reviewer:
+  - IEEE Transactions on Software Engineering (2026)
   - Empirical Software Engineering (2026)
   - Journal of Information Security and Applications (2026)
   - IEEE Transactions on Network and Service Management (2026)
