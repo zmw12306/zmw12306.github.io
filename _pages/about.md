@@ -37,7 +37,13 @@ Thesis: [Semantic Bug Detection for Network Protocol Implementations](https://ha
 B.Eng. in Computer Science and Technology <br> 
 *Wuhan, China · Aug. 2016 – Jun. 2020*
 
+## Blogs
+[**How Kiro fixes itself, and how we keep the fixes honest**](https://kiro.dev/blog/how-kiro-fixes-itself/)<br>
+
 ## Publication
+[**TPScan: An LLM Agent for TTP Recognition in Malware Binaries**](https://arxiv.org/abs/2602.06325)<br>
+Zhou Xuan, Xiangzhe Xu, **Mingwei Zheng**, Louis Zheng-Hua Tan, Jinyao Guo, Tiantai Zhang, Le Yu, Chengpeng Wang, Xiangyu Zhang <br>
+**ICSE 2027**
 
 [**CORVUS: Context Optimization and Reduction Via Underlying Synchronization for LLM Coding Agents**](https://arxiv.org/pdf/2607.22711)<br>
 **Mingwei Zheng\***, David O’Brien\*, Siwei Cui, Pardis Pashakhanloo, Rajdeep Mukherjee, Myeongsoo Kim, Sachit Kuhar <br>
@@ -101,11 +107,6 @@ Qingkai Shi, Junyang Shao, Yapeng Ye, **Mingwei Zheng**, Xiangyu Zhang
 **Mingwei Zheng**, Jun Yang, Ming Wen, Hengcheng Zhu, Yepang Liu, Hai Jin  
 **ASE 2021**
 
-## Preprint
-
-[**Identifying Adversary Tactics and Techniques in Malware Binaries with an LLM Agent**](https://arxiv.org/abs/2602.06325)<br>
-Zhou Xuan, Xiangzhe Xu, **Mingwei Zheng**, Louis Zheng-Hua Tan, Jinyao Guo, Tiantai Zhang, Le Yu, Chengpeng Wang, Xiangyu Zhang <br>
-**arXiv:2602.06325, 2026**
 
 ## Honors and Awards
 * Graduate Teaching Award, Spring 2026
