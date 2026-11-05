@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mingwei Zheng"
 title_separator          : "-"
 name                     : &name "Mingwei Zheng"
-description              : &description "Applied Scientist @ AWS Kiro Science"
+description              : &description "Applied Scientist @ AWS"
 url                      : https://zmw12306.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zmw12306/zmw12306.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mingwei Zheng"
   avatar           : "myself.jpeg"
-  bio              : "Applied Scientist @ AWS Kiro Science"
+  bio              : "Applied Scientist @ AWS"
   location         : "Santa Clara, Canifornia, 95054"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
