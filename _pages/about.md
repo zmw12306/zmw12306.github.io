@@ -41,7 +41,7 @@ B.Eng. in Computer Science and Technology <br>
 [**How Kiro fixes itself, and how we keep the fixes honest**](https://kiro.dev/blog/how-kiro-fixes-itself/)<br>
 
 ## Publication
-[**TPScan: An LLM Agent for TTP Recognition in Malware Binaries**](https://arxiv.org/abs/2602.06325)<br>
+[**TTPScan: An LLM Agent for TTP Recognition in Malware Binaries**](https://arxiv.org/abs/2602.06325)<br>
 Zhou Xuan, Xiangzhe Xu, **Mingwei Zheng**, Louis Zheng-Hua Tan, Jinyao Guo, Tiantai Zhang, Le Yu, Chengpeng Wang, Xiangyu Zhang <br>
 **ICSE 2027**
 
